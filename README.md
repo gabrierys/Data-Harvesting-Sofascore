@@ -77,6 +77,10 @@ df.head()
    import os
    os.makedirs("data", exist_ok=True)
    ```
+4. **Erro no WebDriver Manager?** Exclua a pasta do ChromeDriver e tente novamente.
+   ```bash
+   rm -rf ~/.wdm/drivers/chromedriver
+   ```
 
 ## 📄 Licença
 Este projeto é de uso educacional e não deve ser utilizado para fins comerciais. Todos os dados pertencem ao **[Sofascore](https://www.sofascore.com/)**.
