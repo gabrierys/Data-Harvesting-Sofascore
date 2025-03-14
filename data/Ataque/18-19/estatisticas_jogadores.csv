@@ -1,0 +1,703 @@
+#,Time,Time,Nome,Gols,Grandes chances perdidas,Dribles certos,Finalizações,Conversão de gols %,Notas Sofascore,Nota Sofascore
+1,Barcelona,,Lionel Messi,12,3,35,54,22.22,8.90,8.90
+2,FC Bayern München,,Robert Lewandowski,8,4,6,26,30.77,7.43,7.43
+3,AFC Ajax,,Dušan Tadić,6,0,20,21,28.57,7.63,7.63
+4,Juventus,,Cristiano Ronaldo,6,1,18,48,12.5,7.54,7.54
+5,Manchester City,,Sergio Agüero,6,4,11,30,20,7.39,7.39
+6,FC Porto,,Moussa Marega,6,3,10,26,23.08,7.27,7.27
+7,Paris Saint-Germain,,Neymar,5,1,32,24,20.83,8.18,8.18
+8,Roma,,Edin Džeko,5,3,9,29,17.24,7.90,7.90
+9,TSG Hoffenheim,,Andrej Kramarić,5,0,6,18,27.78,7.40,7.40
+10,Manchester City,,Raheem Sterling,5,2,31,23,21.74,7.39,7.39
+11,Tottenham Hotspur,,Harry Kane,5,4,13,32,15.63,7.34,7.34
+12,Juventus,,Paulo Dybala,5,2,11,21,23.81,7.34,7.34
+13,Liverpool,,Mohamed Salah,5,5,24,52,9.62,7.21,7.21
+14,Tottenham Hotspur,,Lucas Moura,5,2,31,26,19.23,7.12,7.12
+15,Borussia Dortmund,,Raphaël Guerreiro,4,1,0,10,40,7.70,7.70
+16,Atlético Madrid,,Antoine Griezmann,4,2,6,22,18.18,7.55,7.55
+17,Manchester City,,Leroy Sané,4,0,19,12,33.33,7.50,7.50
+18,Real Madrid,,Karim Benzema,4,2,14,21,19.05,7.45,7.45
+19,Paris Saint-Germain,,Kylian Mbappé,4,6,17,29,13.79,7.40,7.40
+20,Manchester City,,Bernardo Silva,4,1,15,12,33.33,7.38,7.38
+21,Manchester City,,Gabriel Jesus,4,3,3,21,19.05,7.17,7.17
+22,Inter,,Mauro Icardi,4,4,1,21,19.05,7.13,7.13
+23,Liverpool,,Sadio Mané,4,10,28,25,16,7.12,7.12
+24,Liverpool,,Roberto Firmino,4,1,10,17,23.53,7.02,7.02
+25,Tottenham Hotspur,,Heung-min Son,4,2,20,33,12.12,6.74,6.74
+26,CSKA Moscow,,Nikola Vlašić,3,0,18,15,20,7.63,7.63
+27,Olympique Lyonnais,,Nabil Fekir,3,1,8,26,11.54,7.63,7.63
+28,AFC Ajax,,Hakim Ziyech,3,5,31,56,5.36,7.48,7.48
+29,Real Madrid,,Gareth Bale,3,6,7,23,13.04,7.40,7.40
+30,Manchester City,,David Silva,3,0,7,13,23.08,7.36,7.36
+31,Barcelona,,Ousmane Dembélé,3,2,11,18,16.67,7.34,7.34
+32,Napoli,,Lorenzo Insigne,3,1,4,18,16.67,7.30,7.30
+33,Roma,,Cengiz Ünder,3,1,11,14,21.43,7.25,7.25
+34,Barcelona,,Philippe Coutinho,3,1,22,33,9.09,7.22,7.22
+35,PSV Eindhoven,,Luuk de Jong,3,2,1,14,21.43,7.22,7.22
+36,Napoli,,Dries Mertens,3,4,1,19,15.79,7.20,7.20
+37,Olympique Lyonnais,,Maxwel Cornet,3,1,5,7,42.86,7.18,7.18
+38,Shakhtar Donetsk,,Júnior Moraes,3,1,2,13,23.08,7.15,7.15
+39,FC Porto,,Jesús Corona,3,1,13,11,27.27,7.15,7.15
+40,Young Boys,,Guillaume Hoarau,3,0,0,12,25,7.12,7.12
+41,AFC Ajax,,Donny van de Beek,3,6,12,21,14.29,7.03,7.03
+42,AFC Ajax,,Nicolás Tagliafico,3,1,3,9,33.33,6.96,6.96
+43,FC Schalke 04,,Nabil Bentaleb,3,0,7,5,60,6.87,6.87
+44,Liverpool,,Divock Origi,3,0,4,3,100,6.80,6.80
+45,Paris Saint-Germain,,Juan Bernat,3,0,5,9,33.33,6.80,6.80
+46,Valencia,,Carlos Soler,2,0,6,12,16.67,7.55,7.55
+47,Shakhtar Donetsk,,Taison,2,0,11,10,20,7.52,7.52
+48,Tottenham Hotspur,,Christian Eriksen,2,2,7,28,7.14,7.43,7.43
+49,Paris Saint-Germain,,Ángel Di María,2,0,12,18,11.11,7.41,7.41
+50,Juventus,,Miralem Pjanić,2,0,5,16,12.5,7.32,7.32
+51,Atlético Madrid,,Koke,2,0,3,6,33.33,7.30,7.30
+52,Real Madrid,,Marco Asensio,2,2,13,20,10,7.30,7.30
+53,Viktoria Plzeň,,Michael Krmenčík,2,1,3,8,25,7.27,7.27
+54,Manchester United,,Paul Pogba,2,1,10,15,13.33,7.24,7.24
+55,Liverpool,,Virgil van Dijk,2,2,1,10,20,7.16,7.16
+56,Barcelona,,Gerard Piqué,2,0,3,2,100,7.15,7.15
+57,Club Brugge KV,,Hans Vanaken,2,0,7,9,22.22,7.15,7.15
+58,Olympique Lyonnais,,Tanguy Ndombélé,2,0,23,9,22.22,7.14,7.14
+59,Benfica,,Alejandro Grimaldo,2,0,9,12,16.67,7.13,7.13
+60,Atlético Madrid,,José María Giménez,2,0,1,3,66.67,7.08,7.08
+61,AFC Ajax,,Matthijs de Ligt,2,0,1,16,12.5,7.07,7.07
+62,Liverpool,,James Milner,2,1,4,12,16.67,7.03,7.03
+63,Paris Saint-Germain,,Edinson Cavani,2,1,2,12,16.67,7.03,7.03
+64,Valencia,,Santi Mina,2,1,4,5,40,7.03,7.03
+65,FK Crvena zvezda,,Milan Pavkov,2,0,2,2,100,7.03,7.03
+66,Galatasaray,,Eren Derdiyok,2,3,2,8,25,7.03,7.03
+67,Shakhtar Donetsk,,Ismaily,2,3,5,13,15.38,6.98,6.98
+68,FC Porto,,Otávio,2,0,11,7,28.57,6.98,6.98
+69,FC Porto,,Éder Militão,2,0,4,5,40,6.97,6.97
+70,FC Porto,,Héctor Herrera,2,0,10,14,14.29,6.94,6.94
+71,PSV Eindhoven,,Hirving Lozano,2,1,8,19,10.53,6.93,6.93
+72,Manchester United,,Marcus Rashford,2,3,7,31,6.45,6.89,6.89
+73,CSKA Moscow,,Fedor Chalov,2,0,3,10,20,6.88,6.88
+74,Manchester United,,Romelu Lukaku,2,0,8,10,20,6.86,6.86
+75,AFC Ajax,,Noussair Mazraoui,2,0,13,7,28.57,6.85,6.85
+76,Club Brugge KV,,Wesley Moraes,2,1,4,7,28.57,6.85,6.85
+77,Tottenham Hotspur,,Fernando Llorente,2,2,5,11,18.18,6.84,6.84
+78,Manchester City,,Aymeric Laporte,2,0,2,6,33.33,6.84,6.84
+79,AFC Ajax,,David Neres,2,3,19,11,18.18,6.82,6.82
+80,CSKA Moscow,,Arnór Sigurðsson,2,1,3,10,20,6.82,6.82
+81,Roma,,Nicolò Zaniolo,2,0,7,7,28.57,6.81,6.81
+82,FC Bayern München,,Arjen Robben,2,3,2,13,15.38,6.80,6.80
+83,Liverpool,,Georginio Wijnaldum,2,0,9,12,16.67,6.70,6.70
+84,AEK Athens,,Viktor Klonaridis,2,2,6,9,22.22,6.40,6.40
+85,Real Madrid,,Toni Kroos,1,0,4,12,8.33,7.74,7.74
+86,Borussia Dortmund,,Marco Reus,1,2,7,10,10,7.58,7.58
+87,FC Bayern München,,Javi Martínez,1,0,3,5,20,7.43,7.43
+88,Roma,,Lorenzo Pellegrini,1,0,6,9,11.11,7.42,7.42
+89,Borussia Dortmund,,Axel Witsel,1,0,9,10,10,7.41,7.41
+90,Manchester City,,Riyad Mahrez,1,2,2,12,8.33,7.40,7.40
+91,Barcelona,,Jordi Alba,1,1,7,6,16.67,7.36,7.36
+92,FC Bayern München,,Mats Hummels,1,0,2,4,25,7.35,7.35
+93,FC Porto,,Alex Telles,1,1,4,7,14.29,7.30,7.30
+94,Barcelona,,Luis Suárez,1,5,14,38,2.63,7.28,7.28
+95,Roma,,Justin Kluivert,1,1,9,6,16.67,7.28,7.28
+96,Real Madrid,,Isco,1,2,5,8,12.5,7.25,7.25
+97,Real Madrid,,Marcelo,1,0,2,4,25,7.23,7.23
+98,Olympique Lyonnais,,Memphis Depay,1,3,6,16,6.25,7.21,7.21
+99,TSG Hoffenheim,,Joelinton,1,0,14,10,10,7.20,7.20
+100,Barcelona,,Rafinha Alcântara,1,0,1,3,33.33,7.20,7.20
+101,Barcelona,,Ivan Rakitić,1,1,2,20,5,7.17,7.17
+102,Napoli,,Marek Hamšík,1,0,0,2,50,7.17,7.17
+103,Manchester City,,Phil Foden,1,0,3,7,14.29,7.17,7.17
+104,Manchester United,,Marouane Fellaini,1,0,0,5,20,7.14,7.14
+105,Benfica,,Jonas,1,1,1,4,25,7.10,7.10
+106,Real Madrid,,Lucas Vázquez,1,1,3,6,16.67,7.10,7.10
+107,Galatasaray,,Garry Rodrigues,1,2,5,16,6.25,7.08,7.08
+108,Real Madrid,,Casemiro,1,0,4,5,20,7.08,7.08
+109,Club Brugge KV,,Ruud Vormer,1,0,1,5,20,7.07,7.07
+110,FC Porto,,Felipe,1,1,4,8,12.5,7.06,7.06
+111,Galatasaray,,Sofiane Feghouli,1,1,3,6,16.67,7.03,7.03
+112,TSG Hoffenheim,,Steven Zuber,1,0,1,5,20,7.03,7.03
+113,Benfica,,Alfa Semedo,1,0,5,3,33.33,7.03,7.03
+114,Borussia Dortmund,,Jacob Bruun Larsen,1,0,1,4,25,7.03,7.03
+115,FK Crvena zvezda,,Marko Marin,1,0,9,6,16.67,7.02,7.02
+116,Inter,,Matías Vecino,1,0,3,12,8.33,7.02,7.02
+117,Juventus,,Mario Mandžukić,1,2,0,8,12.5,6.99,6.99
+118,TSG Hoffenheim,,Ishak Belfodil,1,2,2,9,11.11,6.98,6.98
+119,Liverpool,,Daniel Sturridge,1,2,4,9,11.11,6.96,6.96
+120,Tottenham Hotspur,,Jan Vertonghen,1,3,4,6,16.67,6.96,6.96
+121,Viktoria Plzeň,,Patrik Hrošovský,1,1,1,3,33.33,6.95,6.95
+122,Inter,,Radja Nainggolan,1,0,1,8,12.5,6.95,6.95
+123,Benfica,,Haris Seferović,1,1,2,14,7.14,6.95,6.95
+124,Viktoria Plzeň,,Tomáš Chorý,1,1,1,5,20,6.93,6.93
+125,AFC Ajax,,Lasse Schöne,1,0,4,16,6.25,6.92,6.92
+126,PSV Eindhoven,,Pablo Rosario,1,0,3,6,16.67,6.90,6.90
+127,Club Brugge KV,,Arnaut Danjuma,1,0,1,4,25,6.90,6.90
+128,TSG Hoffenheim,,Håvard Nordtveit,1,0,0,2,50,6.90,6.90
+129,FC Schalke 04,,Alessandro Schöpf,1,1,5,5,20,6.90,6.90
+130,Liverpool,,Naby Keïta,1,0,8,5,20,6.90,6.90
+131,Roma,,Konstantinos Manolas,1,1,3,6,16.67,6.90,6.90
+132,Atlético Madrid,,Diego Godín,1,0,3,5,20,6.88,6.88
+133,Viktoria Plzeň,,Jan Kovařík,1,1,1,5,20,6.88,6.88
+134,Real Madrid,,Mariano Díaz,1,1,2,5,20,6.88,6.88
+135,Paris Saint-Germain,,Marquinhos,1,0,2,3,33.33,6.87,6.87
+136,AS Monaco,,Samuel Grandsir,1,0,4,2,50,6.87,6.87
+137,TSG Hoffenheim,,Pavel Kadeřábek,1,0,2,5,20,6.87,6.87
+138,Paris Saint-Germain,,Thomas Meunier,1,1,1,5,20,6.86,6.86
+139,Borussia Dortmund,,Paco Alcácer,1,1,1,8,12.5,6.86,6.86
+140,Borussia Dortmund,,Jadon Sancho,1,1,11,3,33.33,6.84,6.84
+141,FC Schalke 04,,Weston McKennie,1,0,1,3,33.33,6.83,6.83
+142,FC Porto,,Tiquinho Soares,1,1,3,11,9.09,6.83,6.83
+143,Roma,,Daniele De Rossi,1,0,0,2,50,6.83,6.83
+144,Olympique Lyonnais,,Bertrand Traoré,1,2,6,6,16.67,6.80,6.80
+145,Lokomotiv Moscow,,Anton Miranchuk,1,0,9,7,14.29,6.80,6.80
+146,FC Bayern München,,Franck Ribéry,1,1,16,8,12.5,6.80,6.80
+147,Paris Saint-Germain,,Presnel Kimpembe,1,0,3,2,50,6.79,6.79
+148,Atlético Madrid,,Diego Costa,1,2,0,5,20,6.78,6.78
+149,FC Porto,,Adrián López,1,0,1,1,100,6.75,6.75
+150,TSG Hoffenheim,,Florian Grillitsch,1,0,9,5,20,6.75,6.75
+151,Borussia Dortmund,,Christian Pulišić,1,2,19,8,12.5,6.74,6.74
+152,Olympique Lyonnais,,Lucas Tousart,1,0,2,3,33.33,6.74,6.74
+153,Valencia,,Michy Batshuayi,1,1,7,13,7.69,6.74,6.74
+154,Manchester United,,Juan Mata,1,1,3,8,12.5,6.73,6.73
+155,Olympique Lyonnais,,Moussa Dembélé,1,2,6,12,8.33,6.73,6.73
+156,Atlético Madrid,,Saúl Ñíguez,1,0,6,14,7.14,6.73,6.73
+157,FC Porto,,Sérgio Oliveira,1,0,1,1,100,6.70,6.70
+158,Olympique Lyonnais,,Léo Dubois,1,0,1,1,100,6.70,6.70
+159,Benfica,,Gedson Fernandes,1,1,4,7,14.29,6.70,6.70
+160,Manchester United,,Anthony Martial,1,0,12,12,8.33,6.69,6.69
+161,Shakhtar Donetsk,,Maycon,1,0,1,7,14.29,6.68,6.68
+162,Tottenham Hotspur,,Erik Lamela,1,1,0,9,11.11,6.68,6.68
+163,CSKA Moscow,,Georgi Schennikov,1,3,0,4,25,6.67,6.67
+164,FC Schalke 04,,Mark Uth,1,1,3,9,11.11,6.66,6.66
+165,Lokomotiv Moscow,,Vladislav Ignatjev,1,0,2,4,25,6.65,6.65
+166,FC Schalke 04,,Breel Embolo,1,4,5,9,11.11,6.64,6.64
+167,Barcelona,,Malcom,1,2,0,3,33.33,6.63,6.63
+168,FK Crvena zvezda,,Marko Gobeljić,1,0,2,4,25,6.63,6.63
+169,Young Boys,,Roger Assalé,1,2,5,9,11.11,6.62,6.62
+170,Viktoria Plzeň,,Lukáš Hejda,1,1,0,2,50,6.62,6.62
+171,FC Schalke 04,,Guido Burgstaller,1,0,1,2,50,6.60,6.60
+172,Lokomotiv Moscow,,Jefferson Farfán,1,1,0,11,9.09,6.60,6.60
+173,AS Monaco,,Moussa Sylla,1,2,1,6,16.67,6.60,6.60
+174,FK Crvena zvezda,,El Fardou Ben,1,1,7,6,16.67,6.58,6.58
+175,Galatasaray,,Selçuk İnan,1,0,0,3,33.33,6.50,6.50
+176,FC Bayern München,,Renato Sanches,1,0,5,3,33.33,6.42,6.42
+177,Viktoria Plzeň,,Roman Procházka,1,1,0,8,12.5,6.38,6.38
+178,FC Bayern München,,Kingsley Coman,1,0,2,2,50,6.33,6.33
+179,Barcelona,,Jasper Cillessen,0,0,0,0,0,8.00,8.00
+180,Club Brugge KV,,Ethan Horvath,0,0,0,0,0,7.67,7.67
+181,AFC Ajax,,Carel Eiting,0,0,2,2,0,7.60,7.60
+182,CSKA Moscow,,Ilya Pomazun,0,0,0,0,0,7.60,7.60
+183,Manchester City,,Kevin De Bruyne,0,0,4,7,0,7.55,7.55
+184,Galatasaray,,Emre Akbaba,0,1,0,4,0,7.50,7.50
+185,FC Bayern München,,Joshua Kimmich,0,1,2,4,0,7.46,7.46
+186,Borussia Dortmund,,Maximilian Philipp,0,0,3,3,0,7.45,7.45
+187,Borussia Dortmund,,Manuel Akanji,0,0,2,2,0,7.44,7.44
+188,Barcelona,,Juan Miranda,0,0,1,1,0,7.40,7.40
+189,Juventus,,Medhi Benatia,0,0,0,0,0,7.40,7.40
+190,Lokomotiv Moscow,,Maciej Rybus,0,0,3,1,0,7.40,7.40
+191,Juventus,,Giorgio Chiellini,0,0,1,2,0,7.37,7.37
+192,FC Bayern München,,James Rodríguez,0,1,4,5,0,7.36,7.36
+193,Roma,,Robin Olsen,0,0,0,0,0,7.35,7.35
+194,Real Madrid,,Sergio Ramos,0,0,0,9,0,7.34,7.34
+195,Inter,,Samir Handanović,0,0,0,0,0,7.33,7.33
+196,Manchester City,,Oleksandr Zinchenko,0,0,1,2,0,7.32,7.32
+197,Liverpool,,Trent Alexander-Arnold,0,1,7,12,0,7.32,7.32
+198,Galatasaray,,Ozan Kabak,0,1,4,2,0,7.28,7.28
+199,Atlético Madrid,,Filipe Luís,0,0,3,3,0,7.26,7.26
+200,FC Bayern München,,Niklas Süle,0,0,1,2,0,7.26,7.26
+201,Galatasaray,,Maicon,0,0,0,5,0,7.25,7.25
+202,AS Monaco,,Aleksandr Golovin,0,0,3,2,0,7.23,7.23
+203,Valencia,,Ezequiel Garay,0,0,0,0,0,7.23,7.23
+204,FK Crvena zvezda,,Milan Borjan,0,0,0,0,0,7.23,7.23
+205,Borussia Dortmund,,Abdou Diallo,0,1,6,2,0,7.23,7.23
+206,FC Bayern München,,Thiago Alcântara,0,0,6,4,0,7.22,7.22
+207,Napoli,,Kalidou Koulibaly,0,0,3,3,0,7.22,7.22
+208,Olympique Lyonnais,,Houssem Aouar,0,0,18,15,0,7.20,7.20
+209,Tottenham Hotspur,,Paulo Gazzaniga,0,0,1,0,0,7.20,7.20
+210,FC Schalke 04,,Abdul Rahman Baba,0,0,1,1,0,7.20,7.20
+211,TSG Hoffenheim,,Justin Hoogma,0,0,1,1,0,7.20,7.20
+212,Roma,,Diego Perotti,0,0,2,1,0,7.20,7.20
+213,Club Brugge KV,,Brandon Mechele,0,0,0,0,0,7.20,7.20
+214,Juventus,,Leonardo Bonucci,0,0,0,5,0,7.18,7.18
+215,Liverpool,,Alisson,0,0,0,0,0,7.18,7.18
+216,Borussia Dortmund,,Dan-Axel Zagadou,0,1,1,3,0,7.18,7.18
+217,Paris Saint-Germain,,Thiago Silva,0,0,1,1,0,7.17,7.17
+218,Napoli,,José Callejón,0,1,3,7,0,7.17,7.17
+219,Barcelona,,Sergio Busquets,0,0,6,3,0,7.17,7.17
+220,Valencia,,Cristiano Piccini,0,0,5,1,0,7.17,7.17
+221,Napoli,,Raúl Albiol,0,0,1,1,0,7.17,7.17
+222,Galatasaray,,Badou Ndiaye,0,0,12,7,0,7.16,7.16
+223,FC Schalke 04,,Alexander Nübel,0,0,0,0,0,7.15,7.15
+224,Shakhtar Donetsk,,Yaroslav Rakitskyi,0,0,2,2,0,7.15,7.15
+225,FC Schalke 04,,Naldo,0,0,0,5,0,7.15,7.15
+226,Roma,,Federico Fazio,0,3,2,8,0,7.15,7.15
+227,Club Brugge KV,,Benoît Poulain,0,0,0,1,0,7.15,7.15
+228,Juventus,,João Cancelo,0,0,11,5,0,7.14,7.14
+229,Benfica,,Pizzi,0,0,6,1,0,7.13,7.13
+230,Inter,,Ivan Perišić,0,0,4,13,0,7.13,7.13
+231,Olympique Lyonnais,,Anthony Lopes,0,0,0,0,0,7.13,7.13
+232,FC Bayern München,,Jérôme Boateng,0,0,0,0,0,7.12,7.12
+233,Real Madrid,,Sergio Reguilón,0,0,6,2,0,7.10,7.10
+234,Inter,,Stefan de Vrij,0,0,0,3,0,7.10,7.10
+235,Liverpool,,Jordan Henderson,0,1,3,9,0,7.10,7.10
+236,Borussia Dortmund,,Marwin Hitz,0,0,0,0,0,7.10,7.10
+237,Club Brugge KV,,Matej Mitrović,0,0,0,0,0,7.10,7.10
+238,Roma,,Juan Jesus,0,0,0,0,0,7.10,7.10
+239,Borussia Dortmund,,Ömer Toprak,0,1,0,2,0,7.10,7.10
+240,Manchester United,,Nemanja Matić,0,0,4,0,0,7.10,7.10
+241,AS Monaco,,Youri Tielemans,0,0,3,12,0,7.07,7.07
+242,Tottenham Hotspur,,Kieran Trippier,0,0,2,1,0,7.06,7.06
+243,Liverpool,,Joël Matip,0,0,2,6,0,7.06,7.06
+244,CSKA Moscow,,Ilzat Akhmetov,0,0,7,4,0,7.05,7.05
+245,Tottenham Hotspur,,Juan Foyth,0,0,3,0,0,7.05,7.05
+246,Benfica,,Andrija Živković,0,0,2,3,0,7.05,7.05
+247,Borussia Dortmund,,Julian Weigl,0,1,1,2,0,7.05,7.05
+248,Borussia Dortmund,,Marius Wolf,0,0,3,7,0,7.05,7.05
+249,Paris Saint-Germain,,Marco Verratti,0,0,8,2,0,7.04,7.04
+250,Barcelona,,Clément Lenglet,0,1,4,8,0,7.04,7.04
+251,Real Madrid,,Nacho Fernández,0,0,1,4,0,7.04,7.04
+252,Valencia,,Gabriel Paulista,0,0,0,2,0,7.04,7.04
+253,Real Madrid,,Dani Ceballos,0,0,1,4,0,7.03,7.03
+254,Olympique Lyonnais,,Kenny Tete,0,0,2,1,0,7.03,7.03
+255,Borussia Dortmund,,Marcel Schmelzer,0,0,1,3,0,7.03,7.03
+256,AEK Athens,,Vasilis Lampropoulos,0,1,1,1,0,7.03,7.03
+257,Young Boys,,Djibril Sow,0,0,1,5,0,7.03,7.03
+258,PSV Eindhoven,,Jeroen Zoet,0,0,1,0,0,7.03,7.03
+259,Tottenham Hotspur,,Davinson Sánchez,0,0,4,4,0,7.03,7.03
+260,Real Madrid,,Vinícius Júnior,0,0,11,9,0,7.03,7.03
+261,Manchester City,,İlkay Gündoğan,0,1,6,9,0,7.03,7.03
+262,Juventus,,Federico Bernardeschi,0,1,16,13,0,7.03,7.03
+263,Real Madrid,,Raphaël Varane,0,2,0,4,0,7.03,7.03
+264,Atlético Madrid,,Santiago Arias,0,0,1,1,0,7.03,7.03
+265,Valencia,,Neto,0,0,0,0,0,7.02,7.02
+266,Club Brugge KV,,Marvelous Nakamba,0,0,2,2,0,7.02,7.02
+267,Napoli,,Fabián Ruiz,0,1,8,17,0,7.02,7.02
+268,Club Brugge KV,,Stefano Denswil,0,1,2,4,0,7.02,7.02
+269,FC Bayern München,,Manuel Neuer,0,0,0,0,0,7.01,7.01
+270,Real Madrid,,Luka Modrić,0,1,6,7,0,7.00,7.00
+271,Real Madrid,,Daniel Carvajal,0,1,5,4,0,7.00,7.00
+272,Real Madrid,,Jesús Vallejo,0,0,0,0,0,7.00,7.00
+273,Borussia Dortmund,,Shinji Kagawa,0,0,1,0,0,7.00,7.00
+274,Roma,,Javier Pastore,0,0,2,3,0,7.00,7.00
+275,Benfica,,Cristian Lema,0,0,0,0,0,7.00,7.00
+276,Valencia,,Jaume Doménech,0,0,0,0,0,7.00,7.00
+277,AS Monaco,,Loïc Badiashile,0,0,0,0,0,7.00,7.00
+278,Manchester City,,Danilo,0,0,0,0,0,7.00,7.00
+279,AEK Athens,,Anastasios Bakasetas,0,0,1,4,0,7.00,7.00
+280,Viktoria Plzeň,,Matúš Kozáčik,0,0,0,0,0,7.00,7.00
+281,Real Madrid,,Keylor Navas,0,0,0,0,0,7.00,7.00
+282,Valencia,,Mouctar Diakhaby,0,0,0,1,0,7.00,7.00
+283,CSKA Moscow,,Jaka Bijol,0,0,1,5,0,7.00,7.00
+284,Galatasaray,,Serdar Aziz,0,0,1,0,0,7.00,7.00
+285,Atlético Madrid,,Juanfran,0,0,3,0,0,7.00,7.00
+286,Manchester City,,John Stones,0,1,2,2,0,7.00,7.00
+287,Manchester United,,Luke Shaw,0,0,10,4,0,7.00,7.00
+288,Barcelona,,Marc-André ter Stegen,0,0,0,0,0,7.00,7.00
+289,PSV Eindhoven,,Angeliño,0,0,3,4,0,6.98,6.98
+290,Valencia,,Geoffrey Kondogbia,0,0,3,0,0,6.98,6.98
+291,AEK Athens,,Dmytro Chygrynskiy,0,0,0,0,0,6.98,6.98
+292,Galatasaray,,Martin Linnes,0,0,5,0,0,6.98,6.98
+293,Galatasaray,,Fernando,0,1,3,1,0,6.98,6.98
+294,Juventus,,Wojciech Szczęsny,0,0,1,0,0,6.97,6.97
+295,Atlético Madrid,,Thomas Partey,0,0,6,8,0,6.97,6.97
+296,Paris Saint-Germain,,Dani Alves,0,0,2,5,0,6.97,6.97
+297,Napoli,,Elseid Hysaj,0,0,4,2,0,6.97,6.97
+298,Manchester United,,Antonio Valencia,0,0,2,0,0,6.97,6.97
+299,FK Crvena zvezda,,Vujadin Savić,0,0,0,1,0,6.97,6.97
+300,Napoli,,Nikola Maksimović,0,0,3,1,0,6.96,6.96
+301,Borussia Dortmund,,Roman Bürki,0,0,0,0,0,6.96,6.96
+302,Manchester United,,Ander Herrera,0,0,0,4,0,6.95,6.95
+303,Manchester City,,Benjamin Mendy,0,0,0,2,0,6.95,6.95
+304,Inter,,Marcelo Brozović,0,0,2,3,0,6.95,6.95
+305,Napoli,,David Ospina,0,0,0,0,0,6.95,6.95
+306,CSKA Moscow,,Mário Fernandes,0,0,7,2,0,6.95,6.95
+307,Manchester United,,Chris Smalling,0,0,1,4,0,6.95,6.95
+308,AFC Ajax,,André Onana,0,0,1,0,0,6.94,6.94
+309,Juventus,,Juan Cuadrado,0,1,2,4,0,6.94,6.94
+310,AFC Ajax,,Joël Veltman,0,0,2,3,0,6.94,6.94
+311,Manchester City,,Fernandinho,0,0,4,5,0,6.94,6.94
+312,Real Madrid,,Álvaro Odriozola,0,0,2,0,0,6.93,6.93
+313,FC Schalke 04,,Matija Nastasić,0,0,0,0,0,6.93,6.93
+314,FC Schalke 04,,Salif Sané,0,0,0,4,0,6.93,6.93
+315,Liverpool,,Xherdan Shaqiri,0,1,0,4,0,6.93,6.93
+316,Juventus,,Douglas Costa,0,0,11,6,0,6.93,6.93
+317,CSKA Moscow,,Igor Akinfeev,0,0,0,0,0,6.92,6.92
+318,Young Boys,,Sandro Lauper,0,0,3,2,0,6.92,6.92
+319,AFC Ajax,,Frenkie de Jong,0,0,15,5,0,6.92,6.92
+320,FC Bayern München,,Leon Goretzka,0,0,2,7,0,6.92,6.92
+321,Juventus,,Rodrigo Bentancur,0,0,8,5,0,6.91,6.91
+322,Roma,,Alessandro Florenzi,0,2,4,7,0,6.91,6.91
+323,Olympique Lyonnais,,Marcelo,0,0,0,3,0,6.91,6.91
+324,FC Porto,,Danilo Pereira,0,0,7,14,0,6.91,6.91
+325,Lokomotiv Moscow,,Aleksei Miranchuk,0,1,11,12,0,6.90,6.90
+326,FC Bayern München,,David Alaba,0,0,3,4,0,6.90,6.90
+327,Liverpool,,Andrew Robertson,0,0,7,6,0,6.90,6.90
+328,AEK Athens,,Marios Oikonomou,0,0,2,0,0,6.90,6.90
+329,TSG Hoffenheim,,Nico Schulz,0,1,4,10,0,6.90,6.90
+330,Inter,,Kwadwo Asamoah,0,0,7,4,0,6.90,6.90
+331,TSG Hoffenheim,,Nadiem Amiri,0,0,1,1,0,6.90,6.90
+332,FC Porto,,Diogo Leite,0,0,0,1,0,6.90,6.90
+333,AS Monaco,,Jordi Mboula,0,0,2,1,0,6.90,6.90
+334,Club Brugge KV,,Jelle Vossen,0,0,1,2,0,6.90,6.90
+335,Club Brugge KV,,Sofyan Amrabat,0,0,4,1,0,6.90,6.90
+336,Young Boys,,Marco Wölfli,0,0,0,0,0,6.90,6.90
+337,AFC Ajax,,Maximilian Wöber,0,0,0,1,0,6.90,6.90
+338,Barcelona,,Sergi Roberto,0,1,6,3,0,6.89,6.89
+339,Galatasaray,,Ryan Donk,0,0,3,1,0,6.88,6.88
+340,Paris Saint-Germain,,Adrien Rabiot,0,1,2,4,0,6.88,6.88
+341,Borussia Dortmund,,Łukasz Piszczek,0,1,2,3,0,6.88,6.88
+342,Barcelona,,Arthur,0,0,4,0,0,6.88,6.88
+343,Viktoria Plzeň,,Jan Kopic,0,0,5,3,0,6.88,6.88
+344,Roma,,Stephan El Shaarawy,0,0,4,6,0,6.88,6.88
+345,Galatasaray,,Younès Belhanda,0,0,5,4,0,6.88,6.88
+346,Benfica,,Jardel,0,0,1,4,0,6.88,6.88
+347,FC Schalke 04,,Yevhen Konoplyanka,0,1,12,14,0,6.87,6.87
+348,Benfica,,Germán Conti,0,0,0,2,0,6.87,6.87
+349,CSKA Moscow,,Alan Dzagoev,0,0,1,5,0,6.87,6.87
+350,AFC Ajax,,Daley Blind,0,0,2,7,0,6.87,6.87
+351,Borussia Dortmund,,Achraf Hakimi,0,0,5,3,0,6.86,6.86
+352,Real Madrid,,Thibaut Courtois,0,0,0,0,0,6.86,6.86
+353,FC Schalke 04,,Benjamin Stambouli,0,0,2,1,0,6.86,6.86
+354,Tottenham Hotspur,,Harry Winks,0,0,6,4,0,6.86,6.86
+355,Real Madrid,,Marcos Llorente,0,0,2,2,0,6.85,6.85
+356,Real Madrid,,Javi Sánchez,0,0,0,0,0,6.85,6.85
+357,Valencia,,Francis Coquelin,0,0,4,1,0,6.85,6.85
+358,FC Schalke 04,,Sebastian Rudy,0,0,2,1,0,6.85,6.85
+359,Benfica,,Odysseas Vlachodimos,0,0,0,0,0,6.85,6.85
+360,Roma,,Steven​ N'Zonzi,0,0,2,3,0,6.85,6.85
+361,Roma,,Bryan Cristante,0,0,6,7,0,6.84,6.84
+362,Tottenham Hotspur,,Serge Aurier,0,0,7,2,0,6.84,6.84
+363,Benfica,,Ljubomir Fejsa,0,0,1,2,0,6.84,6.84
+364,Benfica,,Franco Cervi,0,0,1,3,0,6.84,6.84
+365,Tottenham Hotspur,,Dele Alli,0,2,10,17,0,6.84,6.84
+366,Olympique Lyonnais,,Ferland Mendy,0,0,7,9,0,6.84,6.84
+367,Atlético Madrid,,Rodri,0,0,4,4,0,6.84,6.84
+368,TSG Hoffenheim,,Leonardo Bittencourt,0,1,2,3,0,6.83,6.83
+369,Inter,,Matteo Politano,0,1,6,11,0,6.83,6.83
+370,Manchester United,,Phil Jones,0,0,1,0,0,6.83,6.83
+371,CSKA Moscow,,Hörður Magnússon,0,0,0,3,0,6.83,6.83
+372,AEK Athens,,André Simões,0,1,4,2,0,6.83,6.83
+373,Tottenham Hotspur,,Toby Alderweireld,0,1,0,9,0,6.83,6.83
+374,Juventus,,Alex Sandro,0,0,10,6,0,6.82,6.82
+375,TSG Hoffenheim,,Kerem Demirbay,0,1,7,9,0,6.82,6.82
+376,FC Bayern München,,Rafinha,0,0,4,0,0,6.82,6.82
+377,CSKA Moscow,,Nikita Chernov,0,0,0,1,0,6.82,6.82
+378,Tottenham Hotspur,,Hugo Lloris,0,0,1,0,0,6.82,6.82
+379,TSG Hoffenheim,,Oliver Baumann,0,0,0,0,0,6.82,6.82
+380,Manchester United,,Ashley Young,0,0,2,1,0,6.81,6.81
+381,Shakhtar Donetsk,,Marlos Romero,0,0,4,5,0,6.80,6.80
+382,FC Bayern München,,Thomas Müller,0,1,2,7,0,6.80,6.80
+383,FC Porto,,Hernâni,0,0,1,3,0,6.80,6.80
+384,FC Bayern München,,Serge Gnabry,0,1,8,17,0,6.80,6.80
+385,Napoli,,Faouzi Ghoulam,0,0,0,0,0,6.80,6.80
+386,Barcelona,,Jeison Murillo,0,0,0,1,0,6.80,6.80
+387,Liverpool,,Alberto Moreno,0,0,0,1,0,6.80,6.80
+388,PSV Eindhoven,,Maximiliano Romero,0,0,0,2,0,6.80,6.80
+389,FC Porto,,Riechedly Bazoer,0,0,0,2,0,6.80,6.80
+390,AS Monaco,,Kévin N'Doram,0,0,1,1,0,6.80,6.80
+391,AS Monaco,,Benoît Badiashile,0,0,1,1,0,6.80,6.80
+392,Inter,,Šime Vrsaljko,0,0,0,0,0,6.80,6.80
+393,Olympique Lyonnais,,Martin Terrier,0,0,1,5,0,6.80,6.80
+394,Manchester United,,Alexis Sánchez,0,0,3,4,0,6.80,6.80
+395,Valencia,,José Luis Gayà,0,0,3,2,0,6.80,6.80
+396,Napoli,,Mário Rui,0,0,6,3,0,6.80,6.80
+397,Viktoria Plzeň,,Roman Hubník,0,0,0,2,0,6.80,6.80
+398,Paris Saint-Germain,,Julian Draxler,0,0,4,1,0,6.78,6.78
+399,Benfica,,Rafa Silva,0,0,5,7,0,6.78,6.78
+400,Inter,,Milan Škriniar,0,1,1,2,0,6.78,6.78
+401,Atlético Madrid,,Lucas Hernández,0,0,1,0,0,6.78,6.78
+402,Valencia,,Dani Parejo,0,1,6,6,0,6.78,6.78
+403,Galatasaray,,Henry Onyekuru,0,0,3,6,0,6.78,6.78
+404,Borussia Dortmund,,Thomas Delaney,0,0,0,1,0,6.78,6.78
+405,Liverpool,,Fabinho,0,0,2,3,0,6.78,6.78
+406,Roma,,Davide Santon,0,0,2,0,0,6.78,6.78
+407,Club Brugge KV,,Mats Rits,0,0,1,1,0,6.78,6.78
+408,Real Madrid,,Federico Valverde,0,0,3,4,0,6.78,6.78
+409,Manchester United,,Diogo Dalot,0,0,5,2,0,6.78,6.78
+410,Manchester United,,Eric Bailly,0,0,1,2,0,6.78,6.78
+411,Young Boys,,Jean-Pierre Nsame,0,0,3,4,0,6.78,6.78
+412,Club Brugge KV,,Clinton Mata,0,0,3,0,0,6.78,6.78
+413,FC Porto,,André Pereira,0,1,3,1,0,6.78,6.78
+414,Atlético Madrid,,Thomas Lemar,0,0,11,4,0,6.77,6.77
+415,FC Schalke 04,,Omar Mascarell,0,0,0,1,0,6.77,6.77
+416,Galatasaray,,Fernando Muslera,0,0,0,0,0,6.77,6.77
+417,Lokomotiv Moscow,,Grzegorz Krychowiak,0,0,2,6,0,6.77,6.77
+418,Viktoria Plzeň,,Aleš Čermák,0,0,7,3,0,6.76,6.76
+419,Manchester City,,Ederson,0,0,0,0,0,6.76,6.76
+420,Barcelona,,Nélson Semedo,0,0,11,0,0,6.76,6.76
+421,Roma,,Aleksandar Kolarov,0,0,7,14,0,6.75,6.75
+422,AS Monaco,,Khéphren Thuram,0,0,0,0,0,6.75,6.75
+423,Young Boys,,Ulisses Garcia,0,0,2,2,0,6.75,6.75
+424,Liverpool,,Dejan Lovren,0,0,0,0,0,6.75,6.75
+425,Lokomotiv Moscow,,Dmitriy Barinov,0,0,1,6,0,6.75,6.75
+426,Borussia Dortmund,,Mario Götze,0,0,6,6,0,6.75,6.75
+427,PSV Eindhoven,,Jorrit Hendrix,0,0,5,4,0,6.75,6.75
+428,Juventus,,Blaise Matuidi,0,1,8,5,0,6.74,6.74
+429,PSV Eindhoven,,Gastón Pereiro,0,1,4,10,0,6.74,6.74
+430,Barcelona,,Arturo Vidal,0,0,0,5,0,6.74,6.74
+431,Tottenham Hotspur,,Ben Davies,0,0,3,5,0,6.73,6.73
+432,Manchester United,,Scott McTominay,0,0,6,1,0,6.73,6.73
+433,FC Porto,,Pepe,0,0,0,2,0,6.73,6.73
+434,Club Brugge KV,,Emmanuel Dennis,0,0,8,5,0,6.73,6.73
+435,Valencia,,Daniel Wass,0,0,3,2,0,6.73,6.73
+436,Shakhtar Donetsk,,Davit Khocholava,0,0,0,1,0,6.73,6.73
+437,CSKA Moscow,,Dmitri Efremov,0,0,4,3,0,6.73,6.73
+438,Napoli,,Piotr Zieliński,0,0,4,4,0,6.73,6.73
+439,Young Boys,,Mohamed Camara,0,1,0,4,0,6.73,6.73
+440,FC Porto,,Óliver Torres,0,0,4,2,0,6.72,6.72
+441,Lokomotiv Moscow,,Solomon Kvirkvelia,0,0,0,3,0,6.72,6.72
+442,PSV Eindhoven,,Daniel Schwaab,0,0,0,1,0,6.72,6.72
+443,Tottenham Hotspur,,Eric Dier,0,0,1,2,0,6.72,6.72
+444,Manchester City,,Kyle Walker,0,0,5,4,0,6.72,6.72
+445,AEK Athens,,Niklas Hult,0,0,5,1,0,6.72,6.72
+446,CSKA Moscow,,Rodrigo Becão,0,0,1,2,0,6.72,6.72
+447,Napoli,,Allan,0,0,7,5,0,6.72,6.72
+448,PSV Eindhoven,,Nick Viergever,0,0,0,1,0,6.72,6.72
+449,Manchester United,,David De Gea,0,0,0,0,0,6.71,6.71
+450,Tottenham Hotspur,,Moussa Sissoko,0,0,9,4,0,6.71,6.71
+451,AFC Ajax,,Klaas-Jan Huntelaar,0,0,0,3,0,6.70,6.70
+452,Young Boys,,Nicolas Moumie Ngamaleu,0,1,5,5,0,6.70,6.70
+453,Club Brugge KV,,Cyril Ngonge,0,0,0,0,0,6.70,6.70
+454,Club Brugge KV,,Luan Peres,0,1,0,1,0,6.70,6.70
+455,Paris Saint-Germain,,Colin Dagba,0,0,0,0,0,6.70,6.70
+456,AS Monaco,,Almamy Touré,0,0,1,0,0,6.70,6.70
+457,PSV Eindhoven,,Michal Sadílek,0,0,0,0,0,6.70,6.70
+458,Valencia,,Toni Lato,0,0,0,0,0,6.70,6.70
+459,Viktoria Plzeň,,Luděk Pernica,0,0,0,0,0,6.70,6.70
+460,Barcelona,,Munir El Haddadi,0,0,0,1,0,6.70,6.70
+461,AFC Ajax,,Dani de Wit,0,0,1,1,0,6.70,6.70
+462,AFC Ajax,,Daley Sinkgraven,0,0,1,0,0,6.70,6.70
+463,FK Crvena zvezda,,Richmond Boakye,0,0,0,7,0,6.70,6.70
+464,Lokomotiv Moscow,,Fedor Smolov,0,0,1,4,0,6.70,6.70
+465,Inter,,Keita Baldé,0,0,2,3,0,6.70,6.70
+466,Manchester City,,Vincent Kompany,0,0,0,0,0,6.70,6.70
+467,Inter,,Danilo D'Ambrosio,0,0,2,2,0,6.70,6.70
+468,Club Brugge KV,,Thibault Vlietinck,0,0,1,1,0,6.70,6.70
+469,Manchester City,,Nicolás Otamendi,0,1,0,4,0,6.70,6.70
+470,TSG Hoffenheim,,Reiss Nelson,0,1,8,3,0,6.70,6.70
+471,Olympique Lyonnais,,Pape Cheikh,0,0,1,3,0,6.70,6.70
+472,FK Crvena zvezda,,Miloš Degenek,0,0,0,0,0,6.70,6.70
+473,FC Porto,,Yacine Brahimi,0,0,28,11,0,6.69,6.69
+474,Manchester United,,Victor Lindelöf,0,0,1,2,0,6.69,6.69
+475,Galatasaray,,Yuto Nagatomo,0,1,5,1,0,6.68,6.68
+476,Young Boys,,Michel Aebischer,0,0,2,2,0,6.68,6.68
+477,Benfica,,Gabriel Pires,0,1,4,4,0,6.68,6.68
+478,Tottenham Hotspur,,Danny Rose,0,1,14,5,0,6.67,6.67
+479,Young Boys,,Christian Fassnacht,0,0,1,11,0,6.67,6.67
+480,Shakhtar Donetsk,,Olarenwaju Kayode,0,0,0,4,0,6.67,6.67
+481,CSKA Moscow,,Kirill Nababkin,0,0,1,1,0,6.67,6.67
+482,FC Porto,,Maxi Pereira,0,0,2,2,0,6.66,6.66
+483,Benfica,,Rúben Dias,0,0,2,4,0,6.66,6.66
+484,AS Monaco,,Radamel Falcao,0,1,5,12,0,6.66,6.66
+485,AS Monaco,,Kamil Glik,0,1,1,2,0,6.66,6.66
+486,Valencia,,Rodrigo,0,1,3,5,0,6.65,6.65
+487,Atlético Madrid,,Álvaro Morata,0,1,2,2,0,6.65,6.65
+488,Paris Saint-Germain,,Leandro Paredes,0,0,0,0,0,6.65,6.65
+489,Tottenham Hotspur,,Mousa Dembélé,0,0,2,2,0,6.65,6.65
+490,CSKA Moscow,,Timur Zhamaletdinov,0,0,1,1,0,6.65,6.65
+491,Valencia,,Gonçalo Guedes,0,0,6,10,0,6.65,6.65
+492,Atlético Madrid,,Vitolo,0,0,3,1,0,6.65,6.65
+493,FC Porto,,Fernando Andrade,0,0,1,3,0,6.65,6.65
+494,AEK Athens,,Vasilis Barkas,0,0,0,0,0,6.65,6.65
+495,PSV Eindhoven,,Steven Bergwijn,0,0,6,6,0,6.64,6.64
+496,Young Boys,,Kevin Mbabu,0,1,6,3,0,6.64,6.64
+497,FK Crvena zvezda,,Milan Rodić,0,0,1,1,0,6.64,6.64
+498,FK Crvena zvezda,,Dušan Jovančić,0,0,8,4,0,6.64,6.64
+499,Valencia,,Ferran Torres,0,0,3,3,0,6.63,6.63
+500,AS Monaco,,Youssef Aït Bennasser,0,0,1,1,0,6.63,6.63
+501,Paris Saint-Germain,,Eric Maxim Choupo-Moting,0,0,0,2,0,6.63,6.63
+502,Juventus,,Emre Can,0,0,4,3,0,6.63,6.63
+503,Manchester United,,Andreas Pereira,0,0,2,2,0,6.63,6.63
+504,Lokomotiv Moscow,,Manuel Fernandes,0,1,10,6,0,6.63,6.63
+505,Olympique Lyonnais,,Jason Denayer,0,0,2,1,0,6.63,6.63
+506,AS Monaco,,Nacer Chadli,0,0,1,2,0,6.62,6.62
+507,FC Porto,,Iker Casillas,0,0,0,0,0,6.62,6.62
+508,FC Schalke 04,,Suat Serdar,0,1,10,8,0,6.61,6.61
+509,Benfica,,Eduardo Salvio,0,0,10,5,0,6.60,6.60
+510,Benfica,,João Félix,0,0,0,1,0,6.60,6.60
+511,FC Porto,,Vincent Aboubakar,0,0,0,3,0,6.60,6.60
+512,Paris Saint-Germain,,Moussa Diaby,0,0,0,0,0,6.60,6.60
+513,AFC Ajax,,Rasmus Kristensen,0,0,0,0,0,6.60,6.60
+514,AS Monaco,,Adama Traoré,0,0,0,0,0,6.60,6.60
+515,CSKA Moscow,,Abel Hernández,0,0,1,0,0,6.60,6.60
+516,AS Monaco,,Gobe Gouano,0,0,1,2,0,6.60,6.60
+517,Barcelona,,Thomas Vermaelen,0,0,0,0,0,6.60,6.60
+518,FC Porto,,Bruno Costa,0,0,1,0,0,6.60,6.60
+519,CSKA Moscow,,Konstantin Kuchaev,0,0,0,0,0,6.60,6.60
+520,Barcelona,,Carles Aleñá,0,0,2,2,0,6.60,6.60
+521,Inter,,Miranda,0,0,0,1,0,6.60,6.60
+522,Valencia,,Rúben Vezo,0,0,2,1,0,6.60,6.60
+523,Galatasaray,,Sinan Gümüş,0,1,4,5,0,6.60,6.60
+524,Lokomotiv Moscow,,Bryan Idowu,0,0,0,4,0,6.60,6.60
+525,Napoli,,Arkadiusz Milik,0,2,0,9,0,6.60,6.60
+526,AEK Athens,,Lucas Boyé,0,0,4,2,0,6.60,6.60
+527,AS Monaco,,Andrea Raggi,0,0,1,3,0,6.60,6.60
+528,Club Brugge KV,,Loïs Openda,0,1,0,4,0,6.60,6.60
+529,Young Boys,,Steve von Bergen,0,0,0,0,0,6.60,6.60
+530,Manchester United,,Jesse Lingard,0,0,2,3,0,6.60,6.60
+531,Paris Saint-Germain,,Thilo Kehrer,0,0,4,2,0,6.60,6.60
+532,Atlético Madrid,,Jan Oblak,0,0,0,0,0,6.60,6.60
+533,PSV Eindhoven,,Donyell Malen,0,1,2,5,0,6.58,6.58
+534,Borussia Dortmund,,Mahmoud Dahoud,0,0,1,4,0,6.58,6.58
+535,Shakhtar Donetsk,,Serhiy Kryvtsov,0,0,1,0,0,6.58,6.58
+536,AFC Ajax,,Kasper Dolberg,0,2,2,5,0,6.58,6.58
+537,AS Monaco,,Benjamin Henrichs,0,0,1,2,0,6.58,6.58
+538,Liverpool,,Joe Gomez,0,0,3,2,0,6.58,6.58
+539,Olympique Lyonnais,,Rafael,0,0,2,1,0,6.57,6.57
+540,AS Monaco,,Han-Noah Massengo,0,0,3,1,0,6.57,6.57
+541,AEK Athens,,Petros Mantalos,0,0,8,4,0,6.57,6.57
+542,CSKA Moscow,,Ivan Oblyakov,0,2,5,6,0,6.57,6.57
+543,FC Schalke 04,,Daniel Caligiuri,0,0,7,4,0,6.57,6.57
+544,Benfica,,André Almeida,0,0,3,2,0,6.57,6.57
+545,Shakhtar Donetsk,,Alan Patrick,0,0,2,2,0,6.56,6.56
+546,AS Monaco,,Jemerson,0,0,0,0,0,6.56,6.56
+547,AS Monaco,,Giulian Biancone,0,0,0,1,0,6.55,6.55
+548,FC Schalke 04,,Cedric Teuchert,0,0,1,1,0,6.55,6.55
+549,Club Brugge KV,,Siebe Schrijvers,0,0,0,1,0,6.55,6.55
+550,PSV Eindhoven,,Trent Sainsbury,0,0,0,0,0,6.55,6.55
+551,Viktoria Plzeň,,Ubong Ekpai,0,0,1,0,0,6.55,6.55
+552,CSKA Moscow,,Khetag Khosonov,0,0,1,1,0,6.55,6.55
+553,Viktoria Plzeň,,Daniel Kolář,0,0,0,2,0,6.55,6.55
+554,Galatasaray,,Muğdat Çelik,0,0,0,0,0,6.55,6.55
+555,Manchester City,,Fabian Delph,0,0,2,6,0,6.55,6.55
+556,Lokomotiv Moscow,,Igor Denisov,0,1,2,5,0,6.55,6.55
+557,Valencia,,Kévin Gameiro,0,0,2,2,0,6.54,6.54
+558,Inter,,Lautaro Martínez,0,1,2,4,0,6.53,6.53
+559,Atlético Madrid,,Nikola Kalinić,0,0,0,0,0,6.53,6.53
+560,Roma,,Patrik Schick,0,1,3,6,0,6.53,6.53
+561,FC Schalke 04,,Hamza Mendyl,0,0,2,3,0,6.53,6.53
+562,Juventus,,Mattia De Sciglio,0,0,2,1,0,6.53,6.53
+563,TSG Hoffenheim,,Kevin Vogt,0,1,0,2,0,6.53,6.53
+564,Young Boys,,Sékou Sanogo,0,0,1,5,0,6.53,6.53
+565,Inter,,Antonio Candreva,0,0,2,2,0,6.53,6.53
+566,Young Boys,,Miralem Sulejmani,0,0,5,8,0,6.52,6.52
+567,Viktoria Plzeň,,Tomáš Hořava,0,0,2,2,0,6.52,6.52
+568,Manchester United,,Fred,0,0,3,6,0,6.52,6.52
+569,AEK Athens,,Ezequiel Ponce,0,0,3,8,0,6.52,6.52
+570,Young Boys,,Loris Benito,0,0,1,1,0,6.52,6.52
+571,Atlético Madrid,,Ángel Correa,0,2,10,11,0,6.50,6.50
+572,Manchester United,,Mason Greenwood,0,0,0,0,0,6.50,6.50
+573,Galatasaray,,Yunus Akgün,0,0,0,0,0,6.50,6.50
+574,Barcelona,,Samuel Umtiti,0,0,0,0,0,6.50,6.50
+575,Juventus,,Leonardo Spinazzola,0,0,2,1,0,6.50,6.50
+576,FC Schalke 04,,Ahmed Kutucu,0,0,0,1,0,6.50,6.50
+577,FC Bayern München,,Woo-Yeong Jeong,0,0,1,0,0,6.50,6.50
+578,AFC Ajax,,Jürgen Ekkelenkamp,0,0,0,1,0,6.50,6.50
+579,Napoli,,Simone Verdi,0,0,0,1,0,6.50,6.50
+580,AFC Ajax,,Zakaria Labyad,0,0,0,0,0,6.50,6.50
+581,FC Schalke 04,,Franco Di Santo,0,0,0,0,0,6.50,6.50
+582,Olympique Lyonnais,,Jérémy Morel,0,0,0,0,0,6.50,6.50
+583,TSG Hoffenheim,,Benjamin Hübner,0,0,0,0,0,6.50,6.50
+584,Napoli,,Adam Ounas,0,0,2,0,0,6.50,6.50
+585,FK Crvena zvezda,,Dejan Joveljić,0,0,1,1,0,6.50,6.50
+586,Roma,,Rick Karsdorp,0,0,1,0,0,6.50,6.50
+587,AEK Athens,,Giannis Gianniotas,0,0,2,0,0,6.50,6.50
+588,AEK Athens,,Erik Morán,0,0,0,1,0,6.50,6.50
+589,Lokomotiv Moscow,,Vedran Ćorluka,0,0,0,0,0,6.50,6.50
+590,Juventus,,Sami Khedira,0,3,0,4,0,6.50,6.50
+591,AS Monaco,,Djibril Sidibé,0,0,3,3,0,6.50,6.50
+592,FK Crvena zvezda,,Branko Jovičić,0,0,1,0,0,6.50,6.50
+593,Viktoria Plzeň,,Aleš Hruška,0,0,0,0,0,6.50,6.50
+594,Lokomotiv Moscow,,Benedikt Höwedes,0,0,0,2,0,6.50,6.50
+595,AEK Athens,,Rodrigo Galo,0,0,1,0,0,6.50,6.50
+596,Shakhtar Donetsk,,Taras Stepanenko,0,0,1,3,0,6.48,6.48
+597,FK Crvena zvezda,,Goran Čaušić,0,0,0,1,0,6.48,6.48
+598,FC Schalke 04,,Steven Skrzybski,0,0,0,4,0,6.48,6.48
+599,TSG Hoffenheim,,Ermin Bičakčić,0,0,0,0,0,6.47,6.47
+600,Olympique Lyonnais,,Marçal,0,0,1,0,0,6.47,6.47
+601,Juventus,,Andrea Barzagli,0,0,0,0,0,6.47,6.47
+602,AEK Athens,,Konstantinos Galanopoulos,0,0,4,1,0,6.47,6.47
+603,AEK Athens,,Michalis Bakakis,0,0,3,1,0,6.47,6.47
+604,FK Crvena zvezda,,Lorenzo Ebecilio,0,0,5,2,0,6.45,6.45
+605,Atlético Madrid,,Gelson Martins,0,0,0,0,0,6.45,6.45
+606,Roma,,Iván Marcano,0,0,0,1,0,6.45,6.45
+607,AFC Ajax,,Lisandro Magallán,0,0,0,0,0,6.45,6.45
+608,Shakhtar Donetsk,,Dentinho,0,0,0,0,0,6.45,6.45
+609,Shakhtar Donetsk,,Wellington Nem,0,0,0,0,0,6.45,6.45
+610,Galatasaray,,Ömer Bayram,0,0,1,0,0,6.45,6.45
+611,Young Boys,,Thorsten Schick,0,0,0,0,0,6.45,6.45
+612,FC Bayern München,,Sandro Wagner,0,0,0,0,0,6.45,6.45
+613,AEK Athens,,Alef,0,0,2,2,0,6.45,6.45
+614,Shakhtar Donetsk,,Serhiy Bolbat,0,0,0,1,0,6.45,6.45
+615,PSV Eindhoven,,Denzel Dumfries,0,1,3,2,0,6.45,6.45
+616,Paris Saint-Germain,,Alphonse Aréola,0,0,0,0,0,6.43,6.43
+617,AEK Athens,,Giorgos Giakoumakis,0,0,1,0,0,6.43,6.43
+618,Valencia,,Denis Cheryshev,0,0,2,2,0,6.43,6.43
+619,AS Monaco,,Jean-Eudes Aholou,0,0,1,2,0,6.43,6.43
+620,Young Boys,,Leonardo Bertone,0,0,0,0,0,6.43,6.43
+621,Shakhtar Donetsk,,Mykola Matviyenko,0,0,3,3,0,6.42,6.42
+622,FK Crvena zvezda,,Veljko Simić,0,0,1,2,0,6.42,6.42
+623,FK Crvena zvezda,,Nenad Krstičić,0,0,1,2,0,6.42,6.42
+624,Inter,,Borja Valero,0,0,1,2,0,6.42,6.42
+625,Viktoria Plzeň,,Jakub Řezníček,0,0,0,0,0,6.42,6.42
+626,PSV Eindhoven,,Cody Gakpo,0,0,0,0,0,6.40,6.40
+627,Manchester United,,Marcos Rojo,0,0,1,0,0,6.40,6.40
+628,Manchester United,,Tahith Chong,0,0,0,0,0,6.40,6.40
+629,FC Porto,,Chidozie Awaziem,0,0,0,0,0,6.40,6.40
+630,TSG Hoffenheim,,Dennis Geiger,0,0,0,1,0,6.40,6.40
+631,Olympique Lyonnais,,Jordan Ferri,0,0,1,0,0,6.40,6.40
+632,Shakhtar Donetsk,,Oleg Danchenko,0,0,1,1,0,6.40,6.40
+633,Viktoria Plzeň,,Martin Zeman,0,0,0,0,0,6.40,6.40
+634,Club Brugge KV,,Kaveh Rezaei,0,0,0,1,0,6.40,6.40
+635,CSKA Moscow,,Kristijan Bistrović,0,0,0,4,0,6.40,6.40
+636,TSG Hoffenheim,,Kevin Akpoguma,0,0,0,1,0,6.40,6.40
+637,Atlético Madrid,,Francisco Montero,0,0,0,0,0,6.40,6.40
+638,TSG Hoffenheim,,Joshua Brenet,0,0,1,1,0,6.40,6.40
+639,Juventus,,Moise Kean,0,1,2,6,0,6.40,6.40
+640,Shakhtar Donetsk,,Bogdan Butko,0,0,0,0,0,6.40,6.40
+641,Viktoria Plzeň,,Milan Havel,0,0,0,6,0,6.40,6.40
+642,Lokomotiv Moscow,,Guilherme Marinato,0,0,0,0,0,6.40,6.40
+643,PSV Eindhoven,,Érick Gutiérrez,0,0,2,1,0,6.38,6.38
+644,AEK Athens,,Uroš Ćosić,0,0,1,2,0,6.38,6.38
+645,FC Schalke 04,,Ralf Fährmann,0,0,0,0,0,6.37,6.37
+646,TSG Hoffenheim,,Ádám Szalai,0,1,1,6,0,6.36,6.36
+647,Tottenham Hotspur,,Victor Wanyama,0,0,3,1,0,6.36,6.36
+648,Lokomotiv Moscow,,Éder,0,1,0,5,0,6.36,6.36
+649,Roma,,Luca Pellegrini,0,0,0,0,0,6.35,6.35
+650,Galatasaray,,Mariano,0,0,2,0,0,6.35,6.35
+651,Shakhtar Donetsk,,Andriy Pyatov,0,0,0,0,0,6.33,6.33
+652,Juventus,,Daniele Rugani,0,0,2,0,0,6.33,6.33
+653,FC Schalke 04,,Amine Harit,0,0,4,1,0,6.32,6.32
+654,Manchester United,,Sergio Romero,0,0,0,0,0,6.30,6.30
+655,TSG Hoffenheim,,Vincenzo Grifo,0,0,0,0,0,6.30,6.30
+656,AS Monaco,,Stevan Jovetić,0,0,0,0,0,6.30,6.30
+657,FC Porto,,Jorge,0,0,0,0,0,6.30,6.30
+658,Benfica,,Nicolás Castillo,0,0,0,1,0,6.30,6.30
+659,FK Crvena zvezda,,Nikola Stojiljković,0,0,0,0,0,6.30,6.30
+660,AS Monaco,,Julien Serrano,0,0,0,0,0,6.30,6.30
+661,Lokomotiv Moscow,,Mikhail Lysov,0,0,0,0,0,6.30,6.30
+662,Napoli,,Marko Rog,0,0,0,0,0,6.30,6.30
+663,Lokomotiv Moscow,,Rifat Zhemaletdinov,0,0,0,0,0,6.30,6.30
+664,Tottenham Hotspur,,Michel Vorm,0,0,0,0,0,6.30,6.30
+665,Club Brugge KV,,Karlo Letica,0,0,0,0,0,6.30,6.30
+666,AS Monaco,,Diego Benaglio,0,0,0,0,0,6.30,6.30
+667,Viktoria Plzeň,,David Limberský,0,1,5,6,0,6.27,6.27
+668,Paris Saint-Germain,,Gianluigi Buffon,0,0,0,0,0,6.26,6.26
+669,Roma,,Antonio Mirante,0,0,0,0,0,6.25,6.25
+670,Club Brugge KV,,Dion Cools,0,0,0,0,0,6.25,6.25
+671,Viktoria Plzeň,,Milan Petržela,0,1,2,6,0,6.25,6.25
+672,Shakhtar Donetsk,,Viktor Kovalenko,0,0,0,1,0,6.25,6.25
+673,FK Crvena zvezda,,Filip Stojković,0,0,2,0,0,6.24,6.24
+674,Atlético Madrid,,Stefan Savić,0,0,0,0,0,6.20,6.20
+675,Roma,,Ante Ćorić,0,0,0,1,0,6.20,6.20
+676,Viktoria Plzeň,,Radim Řezník,0,0,2,4,0,6.20,6.20
+677,FK Crvena zvezda,,Slavoljub Srnić,0,0,0,2,0,6.17,6.17
+678,PSV Eindhoven,,Nicolas Isimat-Mirin,0,0,0,0,0,6.10,6.10
+679,TSG Hoffenheim,,Stefan Posch,0,0,0,1,0,6.10,6.10
+680,Shakhtar Donetsk,,Fernando,0,1,0,3,0,6.10,6.10
+681,Young Boys,,David von Ballmoos,0,0,0,0,0,6.05,6.05
+682,FK Crvena zvezda,,Srđan Babić,0,1,1,1,0,6.03,6.03
+683,Liverpool,,Adam Lallana,0,1,2,3,0,6.00,6.00
+684,TSG Hoffenheim,,Kasim Adams,0,0,3,0,0,5.95,5.95
+685,AS Monaco,,Sofiane Diop,0,1,2,5,0,5.93,5.93
+686,Tottenham Hotspur,,Kyle Walker-Peters,0,0,2,0,0,5.90,5.90
+687,FC Schalke 04,,Bastian Oczipka,0,0,3,0,0,5.90,5.90
+688,AS Monaco,,Danijel Subašić,0,0,0,0,0,5.80,5.80
+689,FC Schalke 04,,Benjamin Goller,0,0,1,1,0,5.80,5.80
+690,Barcelona,,Denis Suárez,0,0,0,0,0,5.80,5.80
+691,FC Schalke 04,,Jeffrey Bruma,0,0,0,0,0,5.80,5.80
+692,Olympique Lyonnais,,Mathieu Gorgelin,0,0,0,0,0,5.70,5.70
+693,AEK Athens,,Marko Livaja,0,0,0,1,0,5.60,5.60
+694,AS Monaco,,Antonio Barreca,0,0,0,0,0,5.20,5.20
+695,Borussia Dortmund,,Sergio Gómez,0,0,0,0,0,0,
+696,TSG Hoffenheim,,Robin Hack,0,0,0,0,0,0,
+697,Young Boys,,Gregory Wüthrich,0,0,0,0,0,0,
+698,Club Brugge KV,,Saulo Decarli,0,0,0,0,0,0,
+699,Lokomotiv Moscow,,Boris Rotenberg,0,0,0,0,0,0,
+700,CSKA Moscow,,Georgiy Kyrnats,0,0,0,0,0,0,
+701,Club Brugge KV,,Krépin Diatta,0,0,0,0,0,0,
+702,CSKA Moscow,,Takuma Nishimura,0,0,0,0,0,0,
