@@ -30,3 +30,6 @@ build/
 
 # Checkpoints do Jupyter Notebook
 .ipynb_checkpoints/
+
+# Metadados do macOS
+.DS_Store
