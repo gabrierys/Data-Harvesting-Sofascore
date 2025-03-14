@@ -14,13 +14,29 @@ Este projeto tem como objetivo coletar dados da UEFA Champions League a partir d
 - **BeautifulSoup** (para extração de dados da página)
 - **Selenium** (para interação com elementos dinâmicos)
 - **Pandas** (para manipulação e armazenamento de dados)
+- **Requests** (requisições HTTP)
 - **Jupyter Notebook** (para execução e organização do código)
 
 ## 📂 Estrutura do Projeto
 ```
 Champions-League-Analysis/
 │── data/                           # Diretório onde serão salvos os dados coletados
+
 │── notebooks/                      # Contém os notebooks do projeto
+│── champions_league_analysis.ipynb # Notebook principal
+│── requirements.txt                # Lista de dependências do projeto
+│── readme.md                       # Este arquivo README
+```
+
+```
+Champions-League-Analysis/
+│── data/                           # Diretório onde serão salvos os dados coletados
+│   ├── temporadas/                 # Dados organizados por temporada (ex: 22-23, 21-22)
+│   │   ├── Ataque/                 # Estatísticas de ataque por temporada
+│   │   ├── Defesa/                 # Estatísticas defensivas por temporada
+│   │   ├── Passe/                  # Estatísticas de passes por temporada
+│   │   ├── Goleiro/                # Estatísticas de goleiros por temporada
+│   ├── temporadas_urls.csv         # Arquivo com URLs das temporadas para scraping
 │── champions_league_analysis.ipynb # Notebook principal
 │── requirements.txt                # Lista de dependências do projeto
 │── readme.md                       # Este arquivo README
@@ -86,5 +102,3 @@ df.head()
 Este projeto é de uso educacional e não deve ser utilizado para fins comerciais. Todos os dados pertencem ao **[Sofascore](https://www.sofascore.com/)**.
 
 ---
-
-📌 **Desenvolvido por Gabriela Ferreira Coutinho** - 20242025
