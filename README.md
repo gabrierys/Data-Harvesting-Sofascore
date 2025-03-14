@@ -27,12 +27,7 @@ Champions-League-Analysis/
 ```
 
 ## 📥 Instalação e Configuração
-1. **Clone o repositório:**
-```bash
-git clone https://github.com/seu-usuario/champions-league-analysis.git
-cd champions-league-analysis
-```
-
+1. **Clone o repositório**
 2. **Crie um ambiente virtual e instale as dependências:**
 ```bash
 python -m venv venv
@@ -84,7 +79,7 @@ df.head()
    ```
 
 ## 📄 Licença
-Este projeto é de uso educacional e não deve ser utilizado para fins comerciais. Todos os dados pertencem ao **Sofascore**.
+Este projeto é de uso educacional e não deve ser utilizado para fins comerciais. Todos os dados pertencem ao **[Sofascore](https://www.sofascore.com/)**.
 
 ---
 
