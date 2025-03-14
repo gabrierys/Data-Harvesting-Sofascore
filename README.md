@@ -21,16 +21,6 @@ Este projeto tem como objetivo coletar dados da UEFA Champions League a partir d
 ```
 Champions-League-Analysis/
 │── data/                           # Diretório onde serão salvos os dados coletados
-
-│── notebooks/                      # Contém os notebooks do projeto
-│── champions_league_analysis.ipynb # Notebook principal
-│── requirements.txt                # Lista de dependências do projeto
-│── readme.md                       # Este arquivo README
-```
-
-```
-Champions-League-Analysis/
-│── data/                           # Diretório onde serão salvos os dados coletados
 │   ├── temporadas/                 # Dados organizados por temporada (ex: 22-23, 21-22)
 │   │   ├── Ataque/                 # Estatísticas de ataque por temporada
 │   │   ├── Defesa/                 # Estatísticas defensivas por temporada
