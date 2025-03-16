@@ -1,4 +1,15 @@
+# DATA HARVESTING / Projeto da Disciplina
+
+## Universidade de Fortaleza - UNIFOR  
+**Prof.:** Ms. Alex Lima  
+**Curso:** MBA em Ciência de Dados  
+**Aluna:** Gabriela Ferreira Coutinho - 2418581
+
 # 📊 Champions League Analysis - Data Harvesting
+
+## 🔗 Link do Repositório
+
+Acesse o repositório no **[GitHub](https://github.com/gabrierys/Data-Harvesting-Sofascore/)**.
 
 ## 📌 Descrição do Projeto
 Este projeto tem como objetivo coletar dados da UEFA Champions League a partir do site **Sofascore** e realizar uma análise das últimas 10 temporadas (entre 2014 até 2014). A coleta de dados é feita através de **Web Scraping**, utilizando as bibliotecas **Requests, BeautifulSoup e Selenium**.
