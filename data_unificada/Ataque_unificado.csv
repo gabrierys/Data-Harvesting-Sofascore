@@ -726,14 +726,14 @@
 725,Sevilla,Alfonso Pastor,0,0.0,0.0,0.0,0.0,5.7,20-21
 726,Manchester United,Juan Mata,0,0.0,0.0,0.0,0.0,5.6,20-21
 727,Shakhtar Donetsk,Andriy Pyatov,0,0.0,0.0,0.0,0.0,5.6,20-21
-728,AFC Ajax,Jurriën Timber,0,0.0,0.0,0.0,0.0,,20-21
-729,Inter,Radja Nainggolan,0,0.0,0.0,0.0,0.0,,20-21
-730,Manchester United,Odion Ighalo,0,0.0,0.0,0.0,0.0,,20-21
-731,Shakhtar Donetsk,Bogdan Viunnyk,0,0.0,0.0,0.0,0.0,,20-21
-732,Club Brugge KV,Thomas Van den Keybus,0,0.0,1.0,0.0,0.0,,20-21
-733,Lokomotiv Moscow,Aleksandr Silyanov,0,0.0,0.0,0.0,0.0,,20-21
-734,FK Krasnodar,Evgeniy Markov,0,0.0,0.0,0.0,0.0,,20-21
-735,FC Porto,Mamadou Loum,0,0.0,0.0,0.0,0.0,,20-21
+728,AFC Ajax,Jurriën Timber,0,0.0,0.0,0.0,0.0,0.0,20-21
+729,Inter,Radja Nainggolan,0,0.0,0.0,0.0,0.0,0.0,20-21
+730,Manchester United,Odion Ighalo,0,0.0,0.0,0.0,0.0,0.0,20-21
+731,Shakhtar Donetsk,Bogdan Viunnyk,0,0.0,0.0,0.0,0.0,0.0,20-21
+732,Club Brugge KV,Thomas Van den Keybus,0,0.0,1.0,0.0,0.0,0.0,20-21
+733,Lokomotiv Moscow,Aleksandr Silyanov,0,0.0,0.0,0.0,0.0,0.0,20-21
+734,FK Krasnodar,Evgeniy Markov,0,0.0,0.0,0.0,0.0,0.0,20-21
+735,FC Porto,Mamadou Loum,0,0.0,0.0,0.0,0.0,0.0,20-21
 1,Real Madrid,Cristiano Ronaldo,16,11.0,8.0,95.0,16.84,8.11,15-16
 2,FC Bayern München,Robert Lewandowski,9,6.0,9.0,48.0,18.75,7.25,15-16
 3,Barcelona,Luis Suárez,8,6.0,9.0,30.0,26.67,7.59,15-16
@@ -1402,14 +1402,14 @@
 666,Dynamo Kyiv,Oleksandr Rybka,0,0.0,0.0,0.0,0.0,5.6,15-16
 667,GNK Dinamo Zagreb,Filip Benković,0,0.0,0.0,0.0,0.0,5.6,15-16
 668,Malmö FF,Tobias Sana,0,0.0,0.0,0.0,0.0,5.5,15-16
-669,Paris Saint-Germain,Christopher Nkunku,0,0.0,0.0,0.0,0.0,,15-16
-670,Benfica,Luka Jović,0,0.0,0.0,1.0,0.0,,15-16
-671,Juventus,Mario Lemina,0,0.0,1.0,0.0,0.0,,15-16
-672,Juventus,Daniele Rugani,0,0.0,1.0,0.0,0.0,,15-16
-673,Roma,Edoardo Soleri,0,0.0,1.0,0.0,0.0,,15-16
-674,PSV Eindhoven,Rai Vloet,0,0.0,0.0,0.0,0.0,,15-16
-675,GNK Dinamo Zagreb,Mario Musa,0,0.0,0.0,0.0,0.0,,15-16
-676,VfL Wolfsburg,Leandro Putaro,0,0.0,0.0,0.0,0.0,,15-16
+669,Paris Saint-Germain,Christopher Nkunku,0,0.0,0.0,0.0,0.0,0.0,15-16
+670,Benfica,Luka Jović,0,0.0,0.0,1.0,0.0,0.0,15-16
+671,Juventus,Mario Lemina,0,0.0,1.0,0.0,0.0,0.0,15-16
+672,Juventus,Daniele Rugani,0,0.0,1.0,0.0,0.0,0.0,15-16
+673,Roma,Edoardo Soleri,0,0.0,1.0,0.0,0.0,0.0,15-16
+674,PSV Eindhoven,Rai Vloet,0,0.0,0.0,0.0,0.0,0.0,15-16
+675,GNK Dinamo Zagreb,Mario Musa,0,0.0,0.0,0.0,0.0,0.0,15-16
+676,VfL Wolfsburg,Leandro Putaro,0,0.0,0.0,0.0,0.0,0.0,15-16
 1,Manchester City,Erling Haaland,12,10.0,12.0,41.0,29.27,7.41,22-23
 2,Liverpool,Mohamed Salah,8,2.0,9.0,23.0,34.78,7.7,22-23
 3,Paris Saint-Germain,Kylian Mbappé,7,4.0,17.0,26.0,26.92,7.53,22-23
@@ -2124,14 +2124,14 @@
 712,Rangers,Glen Kamara,0,0.0,1.0,0.0,0.0,5.9,22-23
 713,RB Leipzig,Péter Gulácsi,0,0.0,0.0,0.0,0.0,5.77,22-23
 714,Sporting,Ricardo Esgaio,0,0.0,0.0,0.0,0.0,4.65,22-23
-715,Viktoria Plzeň,Adam Kronus,0,0.0,0.0,2.0,0.0,,22-23
-716,Benfica,Andreas Schjelderup,0,0.0,0.0,0.0,0.0,,22-23
-717,Juventus,Enzo Barrenechea,0,0.0,0.0,0.0,0.0,,22-23
-718,Club Brugge KV,Jorne Spileers,0,0.0,0.0,0.0,0.0,,22-23
-719,RB Leipzig,Hugo Novoa Ramos,0,0.0,0.0,0.0,0.0,,22-23
-720,Juventus,Tommaso Barbieri,0,0.0,0.0,0.0,0.0,,22-23
-721,Benfica,Lucas Veríssimo,0,0.0,0.0,0.0,0.0,,22-23
-722,FC Porto,Rodrigo Conceição,0,0.0,0.0,0.0,0.0,,22-23
+715,Viktoria Plzeň,Adam Kronus,0,0.0,0.0,2.0,0.0,0.0,22-23
+716,Benfica,Andreas Schjelderup,0,0.0,0.0,0.0,0.0,0.0,22-23
+717,Juventus,Enzo Barrenechea,0,0.0,0.0,0.0,0.0,0.0,22-23
+718,Club Brugge KV,Jorne Spileers,0,0.0,0.0,0.0,0.0,0.0,22-23
+719,RB Leipzig,Hugo Novoa Ramos,0,0.0,0.0,0.0,0.0,0.0,22-23
+720,Juventus,Tommaso Barbieri,0,0.0,0.0,0.0,0.0,0.0,22-23
+721,Benfica,Lucas Veríssimo,0,0.0,0.0,0.0,0.0,0.0,22-23
+722,FC Porto,Rodrigo Conceição,0,0.0,0.0,0.0,0.0,0.0,22-23
 1,Paris Saint-Germain,Kylian Mbappé,8,10.0,36.0,51.0,15.69,7.69,23-24
 2,FC Bayern München,Harry Kane,8,3.0,4.0,36.0,22.22,7.62,23-24
 3,Atlético Madrid,Antoine Griezmann,6,3.0,5.0,22.0,27.27,7.84,23-24
@@ -2847,15 +2847,15 @@
 713,Benfica,António Silva,0,0.0,2.0,0.0,0.0,5.8,23-24
 714,PSV Eindhoven,Isaac Babadi,0,0.0,0.0,0.0,0.0,5.5,23-24
 715,Celtic,Odin Thiago Holm,0,0.0,2.0,0.0,0.0,5.5,23-24
-716,Real Sociedad,Jon Aramburu,0,0.0,0.0,0.0,0.0,,23-24
-717,Newcastle United,Harvey Barnes,0,0.0,0.0,0.0,0.0,,23-24
-718,Milan,Simon Kjær,0,0.0,0.0,0.0,0.0,,23-24
-719,Napoli,Cyril Ngonge,0,0.0,0.0,0.0,0.0,,23-24
-720,Manchester City,Jacob Wright,0,0.0,0.0,0.0,0.0,,23-24
-721,Milan,Davide Bartesaghi,0,0.0,0.0,0.0,0.0,,23-24
-722,Atlético Madrid,Ilias Kostis,0,0.0,0.0,0.0,0.0,,23-24
-723,PSV Eindhoven,Fredrik Oppegård,0,0.0,0.0,0.0,0.0,,23-24
-724,Sporting Braga,Rony Lopes,0,0.0,0.0,2.0,0.0,,23-24
+716,Real Sociedad,Jon Aramburu,0,0.0,0.0,0.0,0.0,0.0,23-24
+717,Newcastle United,Harvey Barnes,0,0.0,0.0,0.0,0.0,0.0,23-24
+718,Milan,Simon Kjær,0,0.0,0.0,0.0,0.0,0.0,23-24
+719,Napoli,Cyril Ngonge,0,0.0,0.0,0.0,0.0,0.0,23-24
+720,Manchester City,Jacob Wright,0,0.0,0.0,0.0,0.0,0.0,23-24
+721,Milan,Davide Bartesaghi,0,0.0,0.0,0.0,0.0,0.0,23-24
+722,Atlético Madrid,Ilias Kostis,0,0.0,0.0,0.0,0.0,0.0,23-24
+723,PSV Eindhoven,Fredrik Oppegård,0,0.0,0.0,0.0,0.0,0.0,23-24
+724,Sporting Braga,Rony Lopes,0,0.0,0.0,2.0,0.0,0.0,23-24
 1,Barcelona,Lionel Messi,10,5.0,92.0,56.0,17.86,8.52,14-15
 2,Real Madrid,Cristiano Ronaldo,10,6.0,25.0,71.0,14.08,7.6,14-15
 3,Barcelona,Neymar,10,9.0,37.0,33.0,30.3,7.43,14-15
@@ -2875,8 +2875,8 @@
 17,Sporting,Nani,4,0.0,16.0,24.0,16.67,8.14,14-15
 18,Borussia Dortmund,Ciro Immobile,4,0.0,5.0,19.0,21.05,7.18,14-15
 19,FC Bayern München,Mario Götze,4,0.0,5.0,22.0,18.18,7.05,14-15
-20,HB Tórshavn,Levi Hanssen,3,,,,,,14-15
-21,Celtic,Callum McGregor,3,,,,,,14-15
+20,HB Tórshavn,Levi Hanssen,3,0.0,0.0,0.0,0.0,0.0,14-15
+21,Celtic,Callum McGregor,3,0.0,0.0,0.0,0.0,0.0,14-15
 22,Chelsea,Eden Hazard,3,3.0,51.0,16.0,18.75,7.9,14-15
 23,Borussia Dortmund,Marco Reus,3,0.0,5.0,8.0,37.5,7.53,14-15
 24,FC Bayern München,Franck Ribéry,3,1.0,15.0,10.0,30.0,7.5,14-15
@@ -2897,19 +2897,19 @@
 39,Bayer 04 Leverkusen,Heung-min Son,3,1.0,7.0,16.0,18.75,6.93,14-15
 40,Shakhtar Donetsk,Alex Teixeira,3,2.0,12.0,14.0,21.43,6.9,14-15
 41,Basel,Derlis González,3,1.0,13.0,13.0,23.08,6.84,14-15
-42,Red Bull Salzburg,Martin Hinteregger,2,,,,,,14-15
-43,Qarabağ,Reynaldo Silva,2,,,,,,14-15
-44,Celtic,Teemu Pukki,2,,,,,,14-15
-45,GNK Dinamo Zagreb,El Arbi Hillel Soudani,2,,,,,,14-15
-46,Red Bull Salzburg,Jonathan Soriano,2,,,,,,14-15
-47,Sheriff Tiraspol,Ismail Isa,2,,,,,,14-15
-48,Maccabi Tel Aviv,Tal Ben Haim,2,,,,,,14-15
-49,HJK,Demba Savage,2,,,,,,14-15
-50,Qarabağ,Chumbinho,2,,,,,,14-15
-51,Qarabağ,Danilo Dias,2,,,,,,14-15
-52,BATE Borisov,Sergey Krivets,2,,,,,,14-15
-53,ŠK Slovan Bratislava,Marko Milinković,2,,,,,,14-15
-54,Celtic,Virgil van Dijk,2,,,,,,14-15
+42,Red Bull Salzburg,Martin Hinteregger,2,0.0,0.0,0.0,0.0,0.0,14-15
+43,Qarabağ,Reynaldo Silva,2,0.0,0.0,0.0,0.0,0.0,14-15
+44,Celtic,Teemu Pukki,2,0.0,0.0,0.0,0.0,0.0,14-15
+45,GNK Dinamo Zagreb,El Arbi Hillel Soudani,2,0.0,0.0,0.0,0.0,0.0,14-15
+46,Red Bull Salzburg,Jonathan Soriano,2,0.0,0.0,0.0,0.0,0.0,14-15
+47,Sheriff Tiraspol,Ismail Isa,2,0.0,0.0,0.0,0.0,0.0,14-15
+48,Maccabi Tel Aviv,Tal Ben Haim,2,0.0,0.0,0.0,0.0,0.0,14-15
+49,HJK,Demba Savage,2,0.0,0.0,0.0,0.0,0.0,14-15
+50,Qarabağ,Chumbinho,2,0.0,0.0,0.0,0.0,0.0,14-15
+51,Qarabağ,Danilo Dias,2,0.0,0.0,0.0,0.0,0.0,14-15
+52,BATE Borisov,Sergey Krivets,2,0.0,0.0,0.0,0.0,0.0,14-15
+53,ŠK Slovan Bratislava,Marko Milinković,2,0.0,0.0,0.0,0.0,0.0,14-15
+54,Celtic,Virgil van Dijk,2,0.0,0.0,0.0,0.0,0.0,14-15
 55,Chelsea,Cesc Fàbregas,2,1.0,12.0,5.0,40.0,7.81,14-15
 56,Atlético Madrid,Koke,2,0.0,13.0,8.0,25.0,7.79,14-15
 57,Chelsea,Nemanja Matić,2,0.0,15.0,4.0,50.0,7.58,14-15
@@ -2939,44 +2939,44 @@
 81,Atlético Madrid,Raúl García,2,3.0,2.0,24.0,8.33,6.81,14-15
 82,Galatasaray,Burak Yılmaz,2,2.0,0.0,10.0,20.0,6.78,14-15
 83,RSC Anderlecht,Aleksandar Mitrović,2,6.0,3.0,13.0,15.38,6.74,14-15
-84,Red Bull Salzburg,Franz Schiemer,1,,,,,,14-15
-85,Napoli,Gonzalo Higuaín,1,,,,,,14-15
-86,Lincoln Red Imps,Joseph Chipolina,1,,,,,,14-15
-87,FC Santa Coloma,Ildefons Lima,1,,,,,,14-15
-88,F91 Dudelange,David Turpel,1,,,,,,14-15
-89,HB Tórshavn,Bartal Wardum,1,,,,,,14-15
-90,ŠK Slovan Bratislava,Karol Mészáros,1,,,,,,14-15
-91,Lincoln Red Imps,John Paul Duarte,1,,,,,,14-15
-92,Maccabi Tel Aviv,Eden Ben Basat,1,,,,,,14-15
-93,Lincoln Red Imps,George Cabrera,1,,,,,,14-15
-94,FC København,Daniel Amartey,1,,,,,,14-15
-95,ŠK Slovan Bratislava,Róbert Vittek,1,,,,,,14-15
-96,Maccabi Tel Aviv,Rade Prica,1,,,,,,14-15
-97,GNK Dinamo Zagreb,Marcelo Brozović,1,,,,,,14-15
-98,Maccabi Tel Aviv,Eran Zahavi,1,,,,,,14-15
-99,FC København,Andreas Cornelius,1,,,,,,14-15
-100,FC København,Zanka,1,,,,,,14-15
-101,HJK,Robin Lod,1,,,,,,14-15
-102,Sheriff Tiraspol,Luvannor Henrique,1,,,,,,14-15
-103,FC København,Bashkim Kadrii,1,,,,,,14-15
-104,HB Tórshavn,Jóan Edmundsson,1,,,,,,14-15
-105,Sheriff Tiraspol,Ricardinho,1,,,,,,14-15
-106,GNK Dinamo Zagreb,Josip Šimunić,1,,,,,,14-15
-107,FC Santa Coloma,Marc Pujol,1,,,,,,14-15
-108,Lille,Florent Balmont,1,,,,,,14-15
-109,Qarabağ,Leroy George,1,,,,,,14-15
-110,HJK,Valtteri Moren,1,,,,,,14-15
-111,HB Tórshavn,Tróndur Jensen,1,,,,,,14-15
-112,Sheriff Tiraspol,Andrei Mureşan,1,,,,,,14-15
-113,Sheriff Tiraspol,Fred Benson,1,,,,,,14-15
-114,HB Tórshavn,Frodi Benjaminsen,1,,,,,,14-15
-115,FC Santa Coloma,Eloy Casals,1,,,,,,14-15
-116,ŠK Slovan Bratislava,Igor Žofčák,1,,,,,,14-15
-117,ŠK Slovan Bratislava,Erik Cikos,1,,,,,,14-15
-118,Napoli,Marek Hamšík,1,,,,,,14-15
-119,Lille,Ryan Mendes,1,,,,,,14-15
-120,GNK Dinamo Zagreb,Domagoj Antolić,1,,,,,,14-15
-121,Lille,Sébastien Corchia,1,,,,,,14-15
+84,Red Bull Salzburg,Franz Schiemer,1,0.0,0.0,0.0,0.0,0.0,14-15
+85,Napoli,Gonzalo Higuaín,1,0.0,0.0,0.0,0.0,0.0,14-15
+86,Lincoln Red Imps,Joseph Chipolina,1,0.0,0.0,0.0,0.0,0.0,14-15
+87,FC Santa Coloma,Ildefons Lima,1,0.0,0.0,0.0,0.0,0.0,14-15
+88,F91 Dudelange,David Turpel,1,0.0,0.0,0.0,0.0,0.0,14-15
+89,HB Tórshavn,Bartal Wardum,1,0.0,0.0,0.0,0.0,0.0,14-15
+90,ŠK Slovan Bratislava,Karol Mészáros,1,0.0,0.0,0.0,0.0,0.0,14-15
+91,Lincoln Red Imps,John Paul Duarte,1,0.0,0.0,0.0,0.0,0.0,14-15
+92,Maccabi Tel Aviv,Eden Ben Basat,1,0.0,0.0,0.0,0.0,0.0,14-15
+93,Lincoln Red Imps,George Cabrera,1,0.0,0.0,0.0,0.0,0.0,14-15
+94,FC København,Daniel Amartey,1,0.0,0.0,0.0,0.0,0.0,14-15
+95,ŠK Slovan Bratislava,Róbert Vittek,1,0.0,0.0,0.0,0.0,0.0,14-15
+96,Maccabi Tel Aviv,Rade Prica,1,0.0,0.0,0.0,0.0,0.0,14-15
+97,GNK Dinamo Zagreb,Marcelo Brozović,1,0.0,0.0,0.0,0.0,0.0,14-15
+98,Maccabi Tel Aviv,Eran Zahavi,1,0.0,0.0,0.0,0.0,0.0,14-15
+99,FC København,Andreas Cornelius,1,0.0,0.0,0.0,0.0,0.0,14-15
+100,FC København,Zanka,1,0.0,0.0,0.0,0.0,0.0,14-15
+101,HJK,Robin Lod,1,0.0,0.0,0.0,0.0,0.0,14-15
+102,Sheriff Tiraspol,Luvannor Henrique,1,0.0,0.0,0.0,0.0,0.0,14-15
+103,FC København,Bashkim Kadrii,1,0.0,0.0,0.0,0.0,0.0,14-15
+104,HB Tórshavn,Jóan Edmundsson,1,0.0,0.0,0.0,0.0,0.0,14-15
+105,Sheriff Tiraspol,Ricardinho,1,0.0,0.0,0.0,0.0,0.0,14-15
+106,GNK Dinamo Zagreb,Josip Šimunić,1,0.0,0.0,0.0,0.0,0.0,14-15
+107,FC Santa Coloma,Marc Pujol,1,0.0,0.0,0.0,0.0,0.0,14-15
+108,Lille,Florent Balmont,1,0.0,0.0,0.0,0.0,0.0,14-15
+109,Qarabağ,Leroy George,1,0.0,0.0,0.0,0.0,0.0,14-15
+110,HJK,Valtteri Moren,1,0.0,0.0,0.0,0.0,0.0,14-15
+111,HB Tórshavn,Tróndur Jensen,1,0.0,0.0,0.0,0.0,0.0,14-15
+112,Sheriff Tiraspol,Andrei Mureşan,1,0.0,0.0,0.0,0.0,0.0,14-15
+113,Sheriff Tiraspol,Fred Benson,1,0.0,0.0,0.0,0.0,0.0,14-15
+114,HB Tórshavn,Frodi Benjaminsen,1,0.0,0.0,0.0,0.0,0.0,14-15
+115,FC Santa Coloma,Eloy Casals,1,0.0,0.0,0.0,0.0,0.0,14-15
+116,ŠK Slovan Bratislava,Igor Žofčák,1,0.0,0.0,0.0,0.0,0.0,14-15
+117,ŠK Slovan Bratislava,Erik Cikos,1,0.0,0.0,0.0,0.0,0.0,14-15
+118,Napoli,Marek Hamšík,1,0.0,0.0,0.0,0.0,0.0,14-15
+119,Lille,Ryan Mendes,1,0.0,0.0,0.0,0.0,0.0,14-15
+120,GNK Dinamo Zagreb,Domagoj Antolić,1,0.0,0.0,0.0,0.0,0.0,14-15
+121,Lille,Sébastien Corchia,1,0.0,0.0,0.0,0.0,0.0,14-15
 122,Sporting,Jefferson,1,0.0,1.0,2.0,50.0,7.83,14-15
 123,FC Porto,Casemiro,1,0.0,1.0,10.0,10.0,7.81,14-15
 124,Real Madrid,Álvaro Medrán,1,0.0,1.0,2.0,50.0,7.7,14-15
@@ -3088,265 +3088,265 @@
 230,BATE Borisov,Denis Polyakov,1,0.0,0.0,1.0,100.0,6.3,14-15
 231,Arsenal,Olivier Giroud,1,6.0,0.0,13.0,7.69,6.2,14-15
 232,Ludogorets,Marcelinho,1,2.0,8.0,15.0,6.67,6.18,14-15
-233,Napoli,Duván Zapata,0,,,,,,14-15
-234,Napoli,Faouzi Ghoulam,0,,,,,,14-15
-235,Red Bull Salzburg,Valentino Lazaro,0,,,,,,14-15
-236,Celtic,Jason Denayer,0,,,,,,14-15
-237,GNK Dinamo Zagreb,Ante Ćorić,0,,,,,,14-15
-238,Lille,Djibril Sidibé,0,,,,,,14-15
-239,Celtic,James Forrest,0,,,,,,14-15
-240,Celtic,Liam Henderson,0,,,,,,14-15
-241,GNK Dinamo Zagreb,Wilson Eduardo,0,,,,,,14-15
-242,FC København,Rúrik Gíslason,0,,,,,,14-15
-243,Valletta FC,Luke Montebello,0,,,,,,14-15
-244,Napoli,Michu,0,,,,,,14-15
-245,FC København,Marvin Pourié,0,,,,,,14-15
-246,The New Saints,Scott Quigley,0,,,,,,14-15
-247,FC København,Christoffer Remmer,0,,,,,,14-15
-248,Qarabağ,Muarem Muarem,0,,,,,,14-15
-249,The New Saints,Connell Rawlinson,0,,,,,,14-15
-250,Valletta FC,Siraj Arab,0,,,,,,14-15
-251,HJK,Mikael Forssell,0,,,,,,14-15
-252,FK Sutjeska Nikšić,Jovan Vujović,0,,,,,,14-15
-253,Ludogorets,Jeroen Lumu,0,,,,,,14-15
-254,Maccabi Tel Aviv,Moshe Lugassi,0,,,,,,14-15
-255,Ludogorets,Choco,0,,,,,,14-15
-256,Ludogorets,Vitinha,0,,,,,,14-15
-257,Red Bull Salzburg,Nils Quaschner,0,,,,,,14-15
-258,APOEL Nicosia,Aldo Adorno,0,,,,,,14-15
-259,Lille,Steeve Elana,0,,,,,,14-15
-260,Ludogorets,Tero Mäntylä,0,,,,,,14-15
-261,Lincoln Red Imps,Alain Pons,0,,,,,,14-15
-262,Lille,David Rozehnal,0,,,,,,14-15
-263,The New Saints,Steve Evans,0,,,,,,14-15
-264,Valletta FC,Ryan Camilleri,0,,,,,,14-15
-265,The New Saints,Scott Ruscoe,0,,,,,,14-15
-266,FC Santa Coloma,Txema García,0,,,,,,14-15
-267,The New Saints,Phil Baker,0,,,,,,14-15
-268,FK Sutjeska Nikšić,Andrija Pejović,0,,,,,,14-15
-269,The New Saints,Ryan Fraughan,0,,,,,,14-15
-270,FK Sutjeska Nikšić,Milorad Krivokapic,0,,,,,,14-15
-271,FK Sutjeska Nikšić,Stefan Dajić,0,,,,,,14-15
-272,Lincoln Red Imps,Daniel Duarte,0,,,,,,14-15
-273,Napoli,Jorginho,0,,,,,,14-15
-274,Napoli,Kalidou Koulibaly,0,,,,,,14-15
-275,Napoli,Dries Mertens,0,,,,,,14-15
-276,Napoli,Lorenzo Insigne,0,,,,,,14-15
-277,Napoli,Raúl Albiol,0,,,,,,14-15
-278,Lille,Soualiho Meïté,0,,,,,,14-15
-279,Napoli,José Callejón,0,,,,,,14-15
-280,Lille,Rony Lopes,0,,,,,,14-15
-281,Qarabağ,Maksim Medvedev,0,,,,,,14-15
-282,Napoli,Rafael Cabral,0,,,,,,14-15
-283,Lille,Salomon Kalou,0,,,,,,14-15
-284,GNK Dinamo Zagreb,Franko Andrijašević,0,,,,,,14-15
-285,FC København,Nicolai Jørgensen,0,,,,,,14-15
-286,GNK Dinamo Zagreb,Josip Pivarić,0,,,,,,14-15
-287,Celtic,Craig Gordon,0,,,,,,14-15
-288,GNK Dinamo Zagreb,Luis Ibáñez,0,,,,,,14-15
-289,FK Sutjeska Nikšić,Vladimir Jovović,0,,,,,,14-15
-290,GNK Dinamo Zagreb,Leonardo Sigali,0,,,,,,14-15
-291,Sheriff Tiraspol,Ligger,0,,,,,,14-15
-292,Celtic,Nir Bitton,0,,,,,,14-15
-293,GNK Dinamo Zagreb,Jozo Šimunović,0,,,,,,14-15
-294,Napoli,Walter Gargano,0,,,,,,14-15
-295,F91 Dudelange,Alexander Karapetyan,0,,,,,,14-15
-296,Napoli,Christian Maggio,0,,,,,,14-15
-297,Lille,Ronny Rodelin,0,,,,,,14-15
-298,Lincoln Red Imps,Lee Casciaro,0,,,,,,14-15
-299,Lille,Rio Mavuba,0,,,,,,14-15
-300,Napoli,Miguel Britos,0,,,,,,14-15
-301,FC København,Claudemir,0,,,,,,14-15
-302,Lincoln Red Imps,Roy Alan Chipolina,0,,,,,,14-15
-303,Sheriff Tiraspol,Joãozinho,0,,,,,,14-15
-304,Qarabağ,Rəşhad Sadiqov,0,,,,,,14-15
-305,The New Saints,Greg Draper,0,,,,,,14-15
-306,Sheriff Tiraspol,Ernandes,0,,,,,,14-15
-307,ŠK Slovan Bratislava,Nicolás Gorosito,0,,,,,,14-15
-308,The New Saints,Chris Marriott,0,,,,,,14-15
-309,F91 Dudelange,Stelvio Cruz,0,,,,,,14-15
-310,Qarabağ,Tarlan Guliyev,0,,,,,,14-15
-311,ŠK Slovan Bratislava,Samuel Štefánik,0,,,,,,14-15
-312,FC København,Mikael Antonsson,0,,,,,,14-15
-313,Valletta FC,Lateef Elford-Alliyu,0,,,,,,14-15
-314,NK Maribor,Nusmir Fajić,0,,,,,,14-15
-315,The New Saints,Sam Finley,0,,,,,,14-15
-316,Zenit St. Petersburg,Ivan Solovyev,0,,,,,,14-15
-317,F91 Dudelange,Kevin Malget,0,,,,,,14-15
-318,The New Saints,Michael Wilde,0,,,,,,14-15
-319,FK Sutjeska Nikšić,Goran Vujović,0,,,,,,14-15
-320,Maccabi Tel Aviv,Nosa Igiebor,0,,,,,,14-15
-321,ŠK Slovan Bratislava,Matej Jakubek,0,,,,,,14-15
-322,F91 Dudelange,Jonathan Joubert,0,,,,,,14-15
-323,FK Sutjeska Nikšić,Slavko Lukić,0,,,,,,14-15
-324,Valletta FC,Shaun Pierre Bajada,0,,,,,,14-15
-325,FK Sutjeska Nikšić,Stevan Kovačević,0,,,,,,14-15
-326,The New Saints,Kai Edwards,0,,,,,,14-15
-327,F91 Dudelange,Jerry Prempeh,0,,,,,,14-15
-328,The New Saints,Aeron Edwards,0,,,,,,14-15
-329,Sheriff Tiraspol,Leonel Olimpio,0,,,,,,14-15
-330,FK Sutjeska Nikšić,Igor Ćuković,0,,,,,,14-15
-331,F91 Dudelange,Tom Schnell,0,,,,,,14-15
-332,The New Saints,Alex Darlington,0,,,,,,14-15
-333,HJK,Sebastian Mannström,0,,,,,,14-15
-334,Sheriff Tiraspol,Wilfried Balima,0,,,,,,14-15
-335,FK Sutjeska Nikšić,Blažo Igumanović,0,,,,,,14-15
-336,FK Sutjeska Nikšić,Jovan Nikolić,0,,,,,,14-15
-337,FC Santa Coloma,Alejandro Romero,0,,,,,,14-15
-338,F91 Dudelange,Oumar Sylla,0,,,,,,14-15
-339,Lincoln Red Imps,Aaron Payas,0,,,,,,14-15
-340,The New Saints,Paul Harrison,0,,,,,,14-15
-341,F91 Dudelange,Yassine Benajiba,0,,,,,,14-15
-342,Valletta FC,Roderick Briffa,0,,,,,,14-15
-343,Valletta FC,Luke Anthony Dimech,0,,,,,,14-15
-344,Celtic,Derk Boerrigter,0,,,,,,14-15
-345,Valletta FC,Ian Azzopardi,0,,,,,,14-15
-346,The New Saints,Simon Spender,0,,,,,,14-15
-347,Maccabi Tel Aviv,Yuval Shpungin,0,,,,,,14-15
-348,Valletta FC,Hugo Faria,0,,,,,,14-15
-349,Valletta FC,Jonathan Caruana,0,,,,,,14-15
-350,Valletta FC,Ryan Fenech,0,,,,,,14-15
-351,FK Sutjeska Nikšić,Dejan Ognjanović,0,,,,,,14-15
-352,Valletta FC,Ian Zammit,0,,,,,,14-15
-353,The New Saints,Christian Seargeant,0,,,,,,14-15
-354,Valletta FC,Nicholas Vella,0,,,,,,14-15
-355,F91 Dudelange,Sofian Benzouien,0,,,,,,14-15
-356,The New Saints,Matthew Williams,0,,,,,,14-15
-357,FC Santa Coloma,Walter Wagner,0,,,,,,14-15
-358,Maccabi Tel Aviv,Barak Badash,0,,,,,,14-15
-359,F91 Dudelange,Joel Pedro,0,,,,,,14-15
-360,FK Sutjeska Nikšić,Masato Fukui,0,,,,,,14-15
-361,Maccabi Tel Aviv,Gael Margulies,0,,,,,,14-15
-362,FK Sutjeska Nikšić,Nikola Stijepović,0,,,,,,14-15
-363,Lincoln Red Imps,Jordan Perez,0,,,,,,14-15
-364,Valletta FC,Abdelkarim Nafti,0,,,,,,14-15
-365,Lincoln Red Imps,Ryan Casciaro,0,,,,,,14-15
-366,Lincoln Red Imps,Robert Guilling,0,,,,,,14-15
-367,F91 Dudelange,Clayton De Sousa,0,,,,,,14-15
-368,Lincoln Red Imps,Brian Perez,0,,,,,,14-15
-369,Lincoln Red Imps,Kyle Casciaro,0,,,,,,14-15
-370,Lincoln Red Imps,Jean-Carlos Garcia,0,,,,,,14-15
-371,ŠK Slovan Bratislava,Kristian Kolcak,0,,,,,,14-15
-372,F91 Dudelange,Gustav Schulz,0,,,,,,14-15
-373,HB Tórshavn,Pal Mohr Joensen,0,,,,,,14-15
-374,F91 Dudelange,Romain Ney,0,,,,,,14-15
-375,Lincoln Red Imps,Liam Clarke,0,,,,,,14-15
-376,Red Bull Salzburg,Sadio Mané,0,,,,,,14-15
-377,Lille,Divock Origi,0,,,,,,14-15
-378,Red Bull Salzburg,Alan,0,,,,,,14-15
-379,Red Bull Salzburg,Peter Ankersen,0,,,,,,14-15
-380,Red Bull Salzburg,Stefan Ilsanker,0,,,,,,14-15
-381,Red Bull Salzburg,Andreas Ulmer,0,,,,,,14-15
-382,Celtic,Jo Inge Berget,0,,,,,,14-15
-383,Lille,Vincent Enyeama,0,,,,,,14-15
-384,Lille,Nolan Roux,0,,,,,,14-15
-385,Maccabi Tel Aviv,Dor Micha,0,,,,,,14-15
-386,FC København,Youssef Toutouh,0,,,,,,14-15
-387,HJK,Gideon Baah,0,,,,,,14-15
-388,HB Tórshavn,René Shaki Joensen,0,,,,,,14-15
-389,FC København,Steve De Ridder,0,,,,,,14-15
-390,Lille,Marko Baša,0,,,,,,14-15
-391,HJK,Macoumba Kandji,0,,,,,,14-15
-392,Lille,Jonathan Delaplace,0,,,,,,14-15
-393,Sheriff Tiraspol,Thiago Galvão,0,,,,,,14-15
-394,Red Bull Salzburg,Christian Schwegler,0,,,,,,14-15
-395,GNK Dinamo Zagreb,Gonçalo Santos,0,,,,,,14-15
-396,FC Santa Coloma,Lluis Blanco,0,,,,,,14-15
-397,FC København,Per Nilsson,0,,,,,,14-15
-398,Qarabağ,Vugar Nadyrov,0,,,,,,14-15
-399,ŠK Slovan Bratislava,Lester Peltier,0,,,,,,14-15
-400,Sheriff Tiraspol,Juninho Potiguar,0,,,,,,14-15
-401,Maccabi Tel Aviv,Gal Alberman,0,,,,,,14-15
-402,Qarabağ,Admir Teli,0,,,,,,14-15
-403,HB Tórshavn,Alex Jose Dos Santos,0,,,,,,14-15
-404,HB Tórshavn,Jógvan Davidsen,0,,,,,,14-15
-405,FC Santa Coloma,Juan Toscano,0,,,,,,14-15
-406,FC Santa Coloma,Albert Mercade Mellinas,0,,,,,,14-15
-407,HB Tórshavn,Andrew Flotum,0,,,,,,14-15
-408,HB Tórshavn,Poul Ingason,0,,,,,,14-15
-409,Lille,Idrissa Gueye,0,,,,,,14-15
-410,Red Bull Salzburg,Naby Keïta,0,,,,,,14-15
-411,Red Bull Salzburg,Marcel Sabitzer,0,,,,,,14-15
-412,Red Bull Salzburg,André Ramalho,0,,,,,,14-15
-413,Qarabağ,Bədavi Huseynov,0,,,,,,14-15
-414,Red Bull Salzburg,Péter Gulácsi,0,,,,,,14-15
-415,Lille,Simon Kjær,0,,,,,,14-15
-416,Qarabağ,Richard Almeida,0,,,,,,14-15
-417,FC København,Thomas Delaney,0,,,,,,14-15
-418,Celtic,Fraser Forster,0,,,,,,14-15
-419,GNK Dinamo Zagreb,Arijan Ademi,0,,,,,,14-15
-420,Qarabağ,Ibrahim Šehić,0,,,,,,14-15
-421,Qarabağ,Qara Qarayev,0,,,,,,14-15
-422,HJK,Rasmus Schüller,0,,,,,,14-15
-423,GNK Dinamo Zagreb,Eduardo,0,,,,,,14-15
-424,Lille,Pape Souaré,0,,,,,,14-15
-425,HJK,Nikolai Alho,0,,,,,,14-15
-426,GNK Dinamo Zagreb,Ivo Pinto,0,,,,,,14-15
-427,Red Bull Salzburg,Massimo Bruno,0,,,,,,14-15
-428,ŠK Slovan Bratislava,Branislav Niňaj,0,,,,,,14-15
-429,Celtic,Adam Matthews,0,,,,,,14-15
-430,Qarabağ,Ansi Agolli,0,,,,,,14-15
-431,Celtic,Beram Kayal,0,,,,,,14-15
-432,HB Tórshavn,Teitur Gestsson,0,,,,,,14-15
-433,Celtic,Anthony Stokes,0,,,,,,14-15
-434,Sheriff Tiraspol,Radu Gînsari,0,,,,,,14-15
-435,Maccabi Tel Aviv,Sheran Yeini,0,,,,,,14-15
-436,FC København,Danny Amankwaa,0,,,,,,14-15
-437,Maccabi Tel Aviv,Eitan Tibi,0,,,,,,14-15
-438,Sheriff Tiraspol,Elkin Blanco,0,,,,,,14-15
-439,Maccabi Tel Aviv,Dan Einbinder,0,,,,,,14-15
-440,FC København,Stephan Andersen,0,,,,,,14-15
-441,Maccabi Tel Aviv,Omri Ben Harush,0,,,,,,14-15
-442,ŠK Slovan Bratislava,Richard Lásik,0,,,,,,14-15
-443,FC Santa Coloma,Marc Rebés,0,,,,,,14-15
-444,Lille,Franck Béria,0,,,,,,14-15
-445,FC Santa Coloma,Juanfer,0,,,,,,14-15
-446,HJK,Teemu Tainio,0,,,,,,14-15
-447,FC København,Tom Høgli,0,,,,,,14-15
-448,FC Santa Coloma,Cristian Martínez,0,,,,,,14-15
-449,Ludogorets,Hristo Zlatinski,0,,,,,,14-15
-450,HJK,Mika Vayrynen,0,,,,,,14-15
-451,HJK,Veli Lampi,0,,,,,,14-15
-452,HJK,Sebastian Sorsa,0,,,,,,14-15
-453,FC Santa Coloma,Joel Martinez,0,,,,,,14-15
-454,HB Tórshavn,Johann Troest Davidsen,0,,,,,,14-15
-455,Sheriff Tiraspol,Matias Degra,0,,,,,,14-15
-456,Maccabi Tel Aviv,Juan Pablo,0,,,,,,14-15
-457,Sheriff Tiraspol,Cadú,0,,,,,,14-15
-458,HB Tórshavn,Heini Vatnsdal,0,,,,,,14-15
-459,HJK,Markus Heikkinen,0,,,,,,14-15
-460,HJK,Michael Tørnes,0,,,,,,14-15
-461,FC Santa Coloma,Juvenal Edjogo,0,,,,,,14-15
-462,Qarabağ,Ilgar Gurbanov,0,,,,,,14-15
-463,Maccabi Tel Aviv,Carlos Garcia,0,,,,,,14-15
-464,Sheriff Tiraspol,Marcel Metoua,0,,,,,,14-15
-465,Qarabağ,Namiq Yusifov,0,,,,,,14-15
-466,Maccabi Tel Aviv,Maharan Radi,0,,,,,,14-15
-467,FC Santa Coloma,Andreu Ramos,0,,,,,,14-15
-468,FC Santa Coloma,Iban Parra,0,,,,,,14-15
-469,FC Santa Coloma,Robert Ramos Isus,0,,,,,,14-15
-470,BATE Borisov,Aleksandr Pavlov,0,,,,,,14-15
-471,HB Tórshavn,Rogvi Holm,0,,,,,,14-15
-472,HB Tórshavn,Kristin Restorff Mouritsen,0,,,,,,14-15
-473,Celtic,Leigh Griffiths,0,,,,,,14-15
-474,Celtic,Efe Eric Ambrose,0,,,,,,14-15
-475,Celtic,Kris Commons,0,,,,,,14-15
-476,ŠK Slovan Bratislava,Seydouba Soumah,0,,,,,,14-15
-477,Celtic,Stefan Johansen,0,,,,,,14-15
-478,Celtic,Mikael Lustig,0,,,,,,14-15
-479,Celtic,Emilio Izaguirre,0,,,,,,14-15
-480,Celtic,Charlie Mulgrew,0,,,,,,14-15
-481,ŠK Slovan Bratislava,Erik Grendel,0,,,,,,14-15
-482,ŠK Slovan Bratislava,Dušan Perniš,0,,,,,,14-15
-483,ŠK Slovan Bratislava,Dávid Hudák,0,,,,,,14-15
-484,ŠK Slovan Bratislava,Pavel Fořt,0,,,,,,14-15
-485,ŠK Slovan Bratislava,Tomas Jablonsky,0,,,,,,14-15
-486,GNK Dinamo Zagreb,Duje Čop,0,,,,,,14-15
-487,GNK Dinamo Zagreb,Marko Pjaca,0,,,,,,14-15
-488,FC København,Pierre Bengtsson,0,,,,,,14-15
-489,GNK Dinamo Zagreb,Paulo Machado,0,,,,,,14-15
-490,Red Bull Salzburg,Christoph Leitgeb,0,,,,,,14-15
-491,ŠK Slovan Bratislava,Juraj Halenar,0,,,,,,14-15
+233,Napoli,Duván Zapata,0,0.0,0.0,0.0,0.0,0.0,14-15
+234,Napoli,Faouzi Ghoulam,0,0.0,0.0,0.0,0.0,0.0,14-15
+235,Red Bull Salzburg,Valentino Lazaro,0,0.0,0.0,0.0,0.0,0.0,14-15
+236,Celtic,Jason Denayer,0,0.0,0.0,0.0,0.0,0.0,14-15
+237,GNK Dinamo Zagreb,Ante Ćorić,0,0.0,0.0,0.0,0.0,0.0,14-15
+238,Lille,Djibril Sidibé,0,0.0,0.0,0.0,0.0,0.0,14-15
+239,Celtic,James Forrest,0,0.0,0.0,0.0,0.0,0.0,14-15
+240,Celtic,Liam Henderson,0,0.0,0.0,0.0,0.0,0.0,14-15
+241,GNK Dinamo Zagreb,Wilson Eduardo,0,0.0,0.0,0.0,0.0,0.0,14-15
+242,FC København,Rúrik Gíslason,0,0.0,0.0,0.0,0.0,0.0,14-15
+243,Valletta FC,Luke Montebello,0,0.0,0.0,0.0,0.0,0.0,14-15
+244,Napoli,Michu,0,0.0,0.0,0.0,0.0,0.0,14-15
+245,FC København,Marvin Pourié,0,0.0,0.0,0.0,0.0,0.0,14-15
+246,The New Saints,Scott Quigley,0,0.0,0.0,0.0,0.0,0.0,14-15
+247,FC København,Christoffer Remmer,0,0.0,0.0,0.0,0.0,0.0,14-15
+248,Qarabağ,Muarem Muarem,0,0.0,0.0,0.0,0.0,0.0,14-15
+249,The New Saints,Connell Rawlinson,0,0.0,0.0,0.0,0.0,0.0,14-15
+250,Valletta FC,Siraj Arab,0,0.0,0.0,0.0,0.0,0.0,14-15
+251,HJK,Mikael Forssell,0,0.0,0.0,0.0,0.0,0.0,14-15
+252,FK Sutjeska Nikšić,Jovan Vujović,0,0.0,0.0,0.0,0.0,0.0,14-15
+253,Ludogorets,Jeroen Lumu,0,0.0,0.0,0.0,0.0,0.0,14-15
+254,Maccabi Tel Aviv,Moshe Lugassi,0,0.0,0.0,0.0,0.0,0.0,14-15
+255,Ludogorets,Choco,0,0.0,0.0,0.0,0.0,0.0,14-15
+256,Ludogorets,Vitinha,0,0.0,0.0,0.0,0.0,0.0,14-15
+257,Red Bull Salzburg,Nils Quaschner,0,0.0,0.0,0.0,0.0,0.0,14-15
+258,APOEL Nicosia,Aldo Adorno,0,0.0,0.0,0.0,0.0,0.0,14-15
+259,Lille,Steeve Elana,0,0.0,0.0,0.0,0.0,0.0,14-15
+260,Ludogorets,Tero Mäntylä,0,0.0,0.0,0.0,0.0,0.0,14-15
+261,Lincoln Red Imps,Alain Pons,0,0.0,0.0,0.0,0.0,0.0,14-15
+262,Lille,David Rozehnal,0,0.0,0.0,0.0,0.0,0.0,14-15
+263,The New Saints,Steve Evans,0,0.0,0.0,0.0,0.0,0.0,14-15
+264,Valletta FC,Ryan Camilleri,0,0.0,0.0,0.0,0.0,0.0,14-15
+265,The New Saints,Scott Ruscoe,0,0.0,0.0,0.0,0.0,0.0,14-15
+266,FC Santa Coloma,Txema García,0,0.0,0.0,0.0,0.0,0.0,14-15
+267,The New Saints,Phil Baker,0,0.0,0.0,0.0,0.0,0.0,14-15
+268,FK Sutjeska Nikšić,Andrija Pejović,0,0.0,0.0,0.0,0.0,0.0,14-15
+269,The New Saints,Ryan Fraughan,0,0.0,0.0,0.0,0.0,0.0,14-15
+270,FK Sutjeska Nikšić,Milorad Krivokapic,0,0.0,0.0,0.0,0.0,0.0,14-15
+271,FK Sutjeska Nikšić,Stefan Dajić,0,0.0,0.0,0.0,0.0,0.0,14-15
+272,Lincoln Red Imps,Daniel Duarte,0,0.0,0.0,0.0,0.0,0.0,14-15
+273,Napoli,Jorginho,0,0.0,0.0,0.0,0.0,0.0,14-15
+274,Napoli,Kalidou Koulibaly,0,0.0,0.0,0.0,0.0,0.0,14-15
+275,Napoli,Dries Mertens,0,0.0,0.0,0.0,0.0,0.0,14-15
+276,Napoli,Lorenzo Insigne,0,0.0,0.0,0.0,0.0,0.0,14-15
+277,Napoli,Raúl Albiol,0,0.0,0.0,0.0,0.0,0.0,14-15
+278,Lille,Soualiho Meïté,0,0.0,0.0,0.0,0.0,0.0,14-15
+279,Napoli,José Callejón,0,0.0,0.0,0.0,0.0,0.0,14-15
+280,Lille,Rony Lopes,0,0.0,0.0,0.0,0.0,0.0,14-15
+281,Qarabağ,Maksim Medvedev,0,0.0,0.0,0.0,0.0,0.0,14-15
+282,Napoli,Rafael Cabral,0,0.0,0.0,0.0,0.0,0.0,14-15
+283,Lille,Salomon Kalou,0,0.0,0.0,0.0,0.0,0.0,14-15
+284,GNK Dinamo Zagreb,Franko Andrijašević,0,0.0,0.0,0.0,0.0,0.0,14-15
+285,FC København,Nicolai Jørgensen,0,0.0,0.0,0.0,0.0,0.0,14-15
+286,GNK Dinamo Zagreb,Josip Pivarić,0,0.0,0.0,0.0,0.0,0.0,14-15
+287,Celtic,Craig Gordon,0,0.0,0.0,0.0,0.0,0.0,14-15
+288,GNK Dinamo Zagreb,Luis Ibáñez,0,0.0,0.0,0.0,0.0,0.0,14-15
+289,FK Sutjeska Nikšić,Vladimir Jovović,0,0.0,0.0,0.0,0.0,0.0,14-15
+290,GNK Dinamo Zagreb,Leonardo Sigali,0,0.0,0.0,0.0,0.0,0.0,14-15
+291,Sheriff Tiraspol,Ligger,0,0.0,0.0,0.0,0.0,0.0,14-15
+292,Celtic,Nir Bitton,0,0.0,0.0,0.0,0.0,0.0,14-15
+293,GNK Dinamo Zagreb,Jozo Šimunović,0,0.0,0.0,0.0,0.0,0.0,14-15
+294,Napoli,Walter Gargano,0,0.0,0.0,0.0,0.0,0.0,14-15
+295,F91 Dudelange,Alexander Karapetyan,0,0.0,0.0,0.0,0.0,0.0,14-15
+296,Napoli,Christian Maggio,0,0.0,0.0,0.0,0.0,0.0,14-15
+297,Lille,Ronny Rodelin,0,0.0,0.0,0.0,0.0,0.0,14-15
+298,Lincoln Red Imps,Lee Casciaro,0,0.0,0.0,0.0,0.0,0.0,14-15
+299,Lille,Rio Mavuba,0,0.0,0.0,0.0,0.0,0.0,14-15
+300,Napoli,Miguel Britos,0,0.0,0.0,0.0,0.0,0.0,14-15
+301,FC København,Claudemir,0,0.0,0.0,0.0,0.0,0.0,14-15
+302,Lincoln Red Imps,Roy Alan Chipolina,0,0.0,0.0,0.0,0.0,0.0,14-15
+303,Sheriff Tiraspol,Joãozinho,0,0.0,0.0,0.0,0.0,0.0,14-15
+304,Qarabağ,Rəşhad Sadiqov,0,0.0,0.0,0.0,0.0,0.0,14-15
+305,The New Saints,Greg Draper,0,0.0,0.0,0.0,0.0,0.0,14-15
+306,Sheriff Tiraspol,Ernandes,0,0.0,0.0,0.0,0.0,0.0,14-15
+307,ŠK Slovan Bratislava,Nicolás Gorosito,0,0.0,0.0,0.0,0.0,0.0,14-15
+308,The New Saints,Chris Marriott,0,0.0,0.0,0.0,0.0,0.0,14-15
+309,F91 Dudelange,Stelvio Cruz,0,0.0,0.0,0.0,0.0,0.0,14-15
+310,Qarabağ,Tarlan Guliyev,0,0.0,0.0,0.0,0.0,0.0,14-15
+311,ŠK Slovan Bratislava,Samuel Štefánik,0,0.0,0.0,0.0,0.0,0.0,14-15
+312,FC København,Mikael Antonsson,0,0.0,0.0,0.0,0.0,0.0,14-15
+313,Valletta FC,Lateef Elford-Alliyu,0,0.0,0.0,0.0,0.0,0.0,14-15
+314,NK Maribor,Nusmir Fajić,0,0.0,0.0,0.0,0.0,0.0,14-15
+315,The New Saints,Sam Finley,0,0.0,0.0,0.0,0.0,0.0,14-15
+316,Zenit St. Petersburg,Ivan Solovyev,0,0.0,0.0,0.0,0.0,0.0,14-15
+317,F91 Dudelange,Kevin Malget,0,0.0,0.0,0.0,0.0,0.0,14-15
+318,The New Saints,Michael Wilde,0,0.0,0.0,0.0,0.0,0.0,14-15
+319,FK Sutjeska Nikšić,Goran Vujović,0,0.0,0.0,0.0,0.0,0.0,14-15
+320,Maccabi Tel Aviv,Nosa Igiebor,0,0.0,0.0,0.0,0.0,0.0,14-15
+321,ŠK Slovan Bratislava,Matej Jakubek,0,0.0,0.0,0.0,0.0,0.0,14-15
+322,F91 Dudelange,Jonathan Joubert,0,0.0,0.0,0.0,0.0,0.0,14-15
+323,FK Sutjeska Nikšić,Slavko Lukić,0,0.0,0.0,0.0,0.0,0.0,14-15
+324,Valletta FC,Shaun Pierre Bajada,0,0.0,0.0,0.0,0.0,0.0,14-15
+325,FK Sutjeska Nikšić,Stevan Kovačević,0,0.0,0.0,0.0,0.0,0.0,14-15
+326,The New Saints,Kai Edwards,0,0.0,0.0,0.0,0.0,0.0,14-15
+327,F91 Dudelange,Jerry Prempeh,0,0.0,0.0,0.0,0.0,0.0,14-15
+328,The New Saints,Aeron Edwards,0,0.0,0.0,0.0,0.0,0.0,14-15
+329,Sheriff Tiraspol,Leonel Olimpio,0,0.0,0.0,0.0,0.0,0.0,14-15
+330,FK Sutjeska Nikšić,Igor Ćuković,0,0.0,0.0,0.0,0.0,0.0,14-15
+331,F91 Dudelange,Tom Schnell,0,0.0,0.0,0.0,0.0,0.0,14-15
+332,The New Saints,Alex Darlington,0,0.0,0.0,0.0,0.0,0.0,14-15
+333,HJK,Sebastian Mannström,0,0.0,0.0,0.0,0.0,0.0,14-15
+334,Sheriff Tiraspol,Wilfried Balima,0,0.0,0.0,0.0,0.0,0.0,14-15
+335,FK Sutjeska Nikšić,Blažo Igumanović,0,0.0,0.0,0.0,0.0,0.0,14-15
+336,FK Sutjeska Nikšić,Jovan Nikolić,0,0.0,0.0,0.0,0.0,0.0,14-15
+337,FC Santa Coloma,Alejandro Romero,0,0.0,0.0,0.0,0.0,0.0,14-15
+338,F91 Dudelange,Oumar Sylla,0,0.0,0.0,0.0,0.0,0.0,14-15
+339,Lincoln Red Imps,Aaron Payas,0,0.0,0.0,0.0,0.0,0.0,14-15
+340,The New Saints,Paul Harrison,0,0.0,0.0,0.0,0.0,0.0,14-15
+341,F91 Dudelange,Yassine Benajiba,0,0.0,0.0,0.0,0.0,0.0,14-15
+342,Valletta FC,Roderick Briffa,0,0.0,0.0,0.0,0.0,0.0,14-15
+343,Valletta FC,Luke Anthony Dimech,0,0.0,0.0,0.0,0.0,0.0,14-15
+344,Celtic,Derk Boerrigter,0,0.0,0.0,0.0,0.0,0.0,14-15
+345,Valletta FC,Ian Azzopardi,0,0.0,0.0,0.0,0.0,0.0,14-15
+346,The New Saints,Simon Spender,0,0.0,0.0,0.0,0.0,0.0,14-15
+347,Maccabi Tel Aviv,Yuval Shpungin,0,0.0,0.0,0.0,0.0,0.0,14-15
+348,Valletta FC,Hugo Faria,0,0.0,0.0,0.0,0.0,0.0,14-15
+349,Valletta FC,Jonathan Caruana,0,0.0,0.0,0.0,0.0,0.0,14-15
+350,Valletta FC,Ryan Fenech,0,0.0,0.0,0.0,0.0,0.0,14-15
+351,FK Sutjeska Nikšić,Dejan Ognjanović,0,0.0,0.0,0.0,0.0,0.0,14-15
+352,Valletta FC,Ian Zammit,0,0.0,0.0,0.0,0.0,0.0,14-15
+353,The New Saints,Christian Seargeant,0,0.0,0.0,0.0,0.0,0.0,14-15
+354,Valletta FC,Nicholas Vella,0,0.0,0.0,0.0,0.0,0.0,14-15
+355,F91 Dudelange,Sofian Benzouien,0,0.0,0.0,0.0,0.0,0.0,14-15
+356,The New Saints,Matthew Williams,0,0.0,0.0,0.0,0.0,0.0,14-15
+357,FC Santa Coloma,Walter Wagner,0,0.0,0.0,0.0,0.0,0.0,14-15
+358,Maccabi Tel Aviv,Barak Badash,0,0.0,0.0,0.0,0.0,0.0,14-15
+359,F91 Dudelange,Joel Pedro,0,0.0,0.0,0.0,0.0,0.0,14-15
+360,FK Sutjeska Nikšić,Masato Fukui,0,0.0,0.0,0.0,0.0,0.0,14-15
+361,Maccabi Tel Aviv,Gael Margulies,0,0.0,0.0,0.0,0.0,0.0,14-15
+362,FK Sutjeska Nikšić,Nikola Stijepović,0,0.0,0.0,0.0,0.0,0.0,14-15
+363,Lincoln Red Imps,Jordan Perez,0,0.0,0.0,0.0,0.0,0.0,14-15
+364,Valletta FC,Abdelkarim Nafti,0,0.0,0.0,0.0,0.0,0.0,14-15
+365,Lincoln Red Imps,Ryan Casciaro,0,0.0,0.0,0.0,0.0,0.0,14-15
+366,Lincoln Red Imps,Robert Guilling,0,0.0,0.0,0.0,0.0,0.0,14-15
+367,F91 Dudelange,Clayton De Sousa,0,0.0,0.0,0.0,0.0,0.0,14-15
+368,Lincoln Red Imps,Brian Perez,0,0.0,0.0,0.0,0.0,0.0,14-15
+369,Lincoln Red Imps,Kyle Casciaro,0,0.0,0.0,0.0,0.0,0.0,14-15
+370,Lincoln Red Imps,Jean-Carlos Garcia,0,0.0,0.0,0.0,0.0,0.0,14-15
+371,ŠK Slovan Bratislava,Kristian Kolcak,0,0.0,0.0,0.0,0.0,0.0,14-15
+372,F91 Dudelange,Gustav Schulz,0,0.0,0.0,0.0,0.0,0.0,14-15
+373,HB Tórshavn,Pal Mohr Joensen,0,0.0,0.0,0.0,0.0,0.0,14-15
+374,F91 Dudelange,Romain Ney,0,0.0,0.0,0.0,0.0,0.0,14-15
+375,Lincoln Red Imps,Liam Clarke,0,0.0,0.0,0.0,0.0,0.0,14-15
+376,Red Bull Salzburg,Sadio Mané,0,0.0,0.0,0.0,0.0,0.0,14-15
+377,Lille,Divock Origi,0,0.0,0.0,0.0,0.0,0.0,14-15
+378,Red Bull Salzburg,Alan,0,0.0,0.0,0.0,0.0,0.0,14-15
+379,Red Bull Salzburg,Peter Ankersen,0,0.0,0.0,0.0,0.0,0.0,14-15
+380,Red Bull Salzburg,Stefan Ilsanker,0,0.0,0.0,0.0,0.0,0.0,14-15
+381,Red Bull Salzburg,Andreas Ulmer,0,0.0,0.0,0.0,0.0,0.0,14-15
+382,Celtic,Jo Inge Berget,0,0.0,0.0,0.0,0.0,0.0,14-15
+383,Lille,Vincent Enyeama,0,0.0,0.0,0.0,0.0,0.0,14-15
+384,Lille,Nolan Roux,0,0.0,0.0,0.0,0.0,0.0,14-15
+385,Maccabi Tel Aviv,Dor Micha,0,0.0,0.0,0.0,0.0,0.0,14-15
+386,FC København,Youssef Toutouh,0,0.0,0.0,0.0,0.0,0.0,14-15
+387,HJK,Gideon Baah,0,0.0,0.0,0.0,0.0,0.0,14-15
+388,HB Tórshavn,René Shaki Joensen,0,0.0,0.0,0.0,0.0,0.0,14-15
+389,FC København,Steve De Ridder,0,0.0,0.0,0.0,0.0,0.0,14-15
+390,Lille,Marko Baša,0,0.0,0.0,0.0,0.0,0.0,14-15
+391,HJK,Macoumba Kandji,0,0.0,0.0,0.0,0.0,0.0,14-15
+392,Lille,Jonathan Delaplace,0,0.0,0.0,0.0,0.0,0.0,14-15
+393,Sheriff Tiraspol,Thiago Galvão,0,0.0,0.0,0.0,0.0,0.0,14-15
+394,Red Bull Salzburg,Christian Schwegler,0,0.0,0.0,0.0,0.0,0.0,14-15
+395,GNK Dinamo Zagreb,Gonçalo Santos,0,0.0,0.0,0.0,0.0,0.0,14-15
+396,FC Santa Coloma,Lluis Blanco,0,0.0,0.0,0.0,0.0,0.0,14-15
+397,FC København,Per Nilsson,0,0.0,0.0,0.0,0.0,0.0,14-15
+398,Qarabağ,Vugar Nadyrov,0,0.0,0.0,0.0,0.0,0.0,14-15
+399,ŠK Slovan Bratislava,Lester Peltier,0,0.0,0.0,0.0,0.0,0.0,14-15
+400,Sheriff Tiraspol,Juninho Potiguar,0,0.0,0.0,0.0,0.0,0.0,14-15
+401,Maccabi Tel Aviv,Gal Alberman,0,0.0,0.0,0.0,0.0,0.0,14-15
+402,Qarabağ,Admir Teli,0,0.0,0.0,0.0,0.0,0.0,14-15
+403,HB Tórshavn,Alex Jose Dos Santos,0,0.0,0.0,0.0,0.0,0.0,14-15
+404,HB Tórshavn,Jógvan Davidsen,0,0.0,0.0,0.0,0.0,0.0,14-15
+405,FC Santa Coloma,Juan Toscano,0,0.0,0.0,0.0,0.0,0.0,14-15
+406,FC Santa Coloma,Albert Mercade Mellinas,0,0.0,0.0,0.0,0.0,0.0,14-15
+407,HB Tórshavn,Andrew Flotum,0,0.0,0.0,0.0,0.0,0.0,14-15
+408,HB Tórshavn,Poul Ingason,0,0.0,0.0,0.0,0.0,0.0,14-15
+409,Lille,Idrissa Gueye,0,0.0,0.0,0.0,0.0,0.0,14-15
+410,Red Bull Salzburg,Naby Keïta,0,0.0,0.0,0.0,0.0,0.0,14-15
+411,Red Bull Salzburg,Marcel Sabitzer,0,0.0,0.0,0.0,0.0,0.0,14-15
+412,Red Bull Salzburg,André Ramalho,0,0.0,0.0,0.0,0.0,0.0,14-15
+413,Qarabağ,Bədavi Huseynov,0,0.0,0.0,0.0,0.0,0.0,14-15
+414,Red Bull Salzburg,Péter Gulácsi,0,0.0,0.0,0.0,0.0,0.0,14-15
+415,Lille,Simon Kjær,0,0.0,0.0,0.0,0.0,0.0,14-15
+416,Qarabağ,Richard Almeida,0,0.0,0.0,0.0,0.0,0.0,14-15
+417,FC København,Thomas Delaney,0,0.0,0.0,0.0,0.0,0.0,14-15
+418,Celtic,Fraser Forster,0,0.0,0.0,0.0,0.0,0.0,14-15
+419,GNK Dinamo Zagreb,Arijan Ademi,0,0.0,0.0,0.0,0.0,0.0,14-15
+420,Qarabağ,Ibrahim Šehić,0,0.0,0.0,0.0,0.0,0.0,14-15
+421,Qarabağ,Qara Qarayev,0,0.0,0.0,0.0,0.0,0.0,14-15
+422,HJK,Rasmus Schüller,0,0.0,0.0,0.0,0.0,0.0,14-15
+423,GNK Dinamo Zagreb,Eduardo,0,0.0,0.0,0.0,0.0,0.0,14-15
+424,Lille,Pape Souaré,0,0.0,0.0,0.0,0.0,0.0,14-15
+425,HJK,Nikolai Alho,0,0.0,0.0,0.0,0.0,0.0,14-15
+426,GNK Dinamo Zagreb,Ivo Pinto,0,0.0,0.0,0.0,0.0,0.0,14-15
+427,Red Bull Salzburg,Massimo Bruno,0,0.0,0.0,0.0,0.0,0.0,14-15
+428,ŠK Slovan Bratislava,Branislav Niňaj,0,0.0,0.0,0.0,0.0,0.0,14-15
+429,Celtic,Adam Matthews,0,0.0,0.0,0.0,0.0,0.0,14-15
+430,Qarabağ,Ansi Agolli,0,0.0,0.0,0.0,0.0,0.0,14-15
+431,Celtic,Beram Kayal,0,0.0,0.0,0.0,0.0,0.0,14-15
+432,HB Tórshavn,Teitur Gestsson,0,0.0,0.0,0.0,0.0,0.0,14-15
+433,Celtic,Anthony Stokes,0,0.0,0.0,0.0,0.0,0.0,14-15
+434,Sheriff Tiraspol,Radu Gînsari,0,0.0,0.0,0.0,0.0,0.0,14-15
+435,Maccabi Tel Aviv,Sheran Yeini,0,0.0,0.0,0.0,0.0,0.0,14-15
+436,FC København,Danny Amankwaa,0,0.0,0.0,0.0,0.0,0.0,14-15
+437,Maccabi Tel Aviv,Eitan Tibi,0,0.0,0.0,0.0,0.0,0.0,14-15
+438,Sheriff Tiraspol,Elkin Blanco,0,0.0,0.0,0.0,0.0,0.0,14-15
+439,Maccabi Tel Aviv,Dan Einbinder,0,0.0,0.0,0.0,0.0,0.0,14-15
+440,FC København,Stephan Andersen,0,0.0,0.0,0.0,0.0,0.0,14-15
+441,Maccabi Tel Aviv,Omri Ben Harush,0,0.0,0.0,0.0,0.0,0.0,14-15
+442,ŠK Slovan Bratislava,Richard Lásik,0,0.0,0.0,0.0,0.0,0.0,14-15
+443,FC Santa Coloma,Marc Rebés,0,0.0,0.0,0.0,0.0,0.0,14-15
+444,Lille,Franck Béria,0,0.0,0.0,0.0,0.0,0.0,14-15
+445,FC Santa Coloma,Juanfer,0,0.0,0.0,0.0,0.0,0.0,14-15
+446,HJK,Teemu Tainio,0,0.0,0.0,0.0,0.0,0.0,14-15
+447,FC København,Tom Høgli,0,0.0,0.0,0.0,0.0,0.0,14-15
+448,FC Santa Coloma,Cristian Martínez,0,0.0,0.0,0.0,0.0,0.0,14-15
+449,Ludogorets,Hristo Zlatinski,0,0.0,0.0,0.0,0.0,0.0,14-15
+450,HJK,Mika Vayrynen,0,0.0,0.0,0.0,0.0,0.0,14-15
+451,HJK,Veli Lampi,0,0.0,0.0,0.0,0.0,0.0,14-15
+452,HJK,Sebastian Sorsa,0,0.0,0.0,0.0,0.0,0.0,14-15
+453,FC Santa Coloma,Joel Martinez,0,0.0,0.0,0.0,0.0,0.0,14-15
+454,HB Tórshavn,Johann Troest Davidsen,0,0.0,0.0,0.0,0.0,0.0,14-15
+455,Sheriff Tiraspol,Matias Degra,0,0.0,0.0,0.0,0.0,0.0,14-15
+456,Maccabi Tel Aviv,Juan Pablo,0,0.0,0.0,0.0,0.0,0.0,14-15
+457,Sheriff Tiraspol,Cadú,0,0.0,0.0,0.0,0.0,0.0,14-15
+458,HB Tórshavn,Heini Vatnsdal,0,0.0,0.0,0.0,0.0,0.0,14-15
+459,HJK,Markus Heikkinen,0,0.0,0.0,0.0,0.0,0.0,14-15
+460,HJK,Michael Tørnes,0,0.0,0.0,0.0,0.0,0.0,14-15
+461,FC Santa Coloma,Juvenal Edjogo,0,0.0,0.0,0.0,0.0,0.0,14-15
+462,Qarabağ,Ilgar Gurbanov,0,0.0,0.0,0.0,0.0,0.0,14-15
+463,Maccabi Tel Aviv,Carlos Garcia,0,0.0,0.0,0.0,0.0,0.0,14-15
+464,Sheriff Tiraspol,Marcel Metoua,0,0.0,0.0,0.0,0.0,0.0,14-15
+465,Qarabağ,Namiq Yusifov,0,0.0,0.0,0.0,0.0,0.0,14-15
+466,Maccabi Tel Aviv,Maharan Radi,0,0.0,0.0,0.0,0.0,0.0,14-15
+467,FC Santa Coloma,Andreu Ramos,0,0.0,0.0,0.0,0.0,0.0,14-15
+468,FC Santa Coloma,Iban Parra,0,0.0,0.0,0.0,0.0,0.0,14-15
+469,FC Santa Coloma,Robert Ramos Isus,0,0.0,0.0,0.0,0.0,0.0,14-15
+470,BATE Borisov,Aleksandr Pavlov,0,0.0,0.0,0.0,0.0,0.0,14-15
+471,HB Tórshavn,Rogvi Holm,0,0.0,0.0,0.0,0.0,0.0,14-15
+472,HB Tórshavn,Kristin Restorff Mouritsen,0,0.0,0.0,0.0,0.0,0.0,14-15
+473,Celtic,Leigh Griffiths,0,0.0,0.0,0.0,0.0,0.0,14-15
+474,Celtic,Efe Eric Ambrose,0,0.0,0.0,0.0,0.0,0.0,14-15
+475,Celtic,Kris Commons,0,0.0,0.0,0.0,0.0,0.0,14-15
+476,ŠK Slovan Bratislava,Seydouba Soumah,0,0.0,0.0,0.0,0.0,0.0,14-15
+477,Celtic,Stefan Johansen,0,0.0,0.0,0.0,0.0,0.0,14-15
+478,Celtic,Mikael Lustig,0,0.0,0.0,0.0,0.0,0.0,14-15
+479,Celtic,Emilio Izaguirre,0,0.0,0.0,0.0,0.0,0.0,14-15
+480,Celtic,Charlie Mulgrew,0,0.0,0.0,0.0,0.0,0.0,14-15
+481,ŠK Slovan Bratislava,Erik Grendel,0,0.0,0.0,0.0,0.0,0.0,14-15
+482,ŠK Slovan Bratislava,Dušan Perniš,0,0.0,0.0,0.0,0.0,0.0,14-15
+483,ŠK Slovan Bratislava,Dávid Hudák,0,0.0,0.0,0.0,0.0,0.0,14-15
+484,ŠK Slovan Bratislava,Pavel Fořt,0,0.0,0.0,0.0,0.0,0.0,14-15
+485,ŠK Slovan Bratislava,Tomas Jablonsky,0,0.0,0.0,0.0,0.0,0.0,14-15
+486,GNK Dinamo Zagreb,Duje Čop,0,0.0,0.0,0.0,0.0,0.0,14-15
+487,GNK Dinamo Zagreb,Marko Pjaca,0,0.0,0.0,0.0,0.0,0.0,14-15
+488,FC København,Pierre Bengtsson,0,0.0,0.0,0.0,0.0,0.0,14-15
+489,GNK Dinamo Zagreb,Paulo Machado,0,0.0,0.0,0.0,0.0,0.0,14-15
+490,Red Bull Salzburg,Christoph Leitgeb,0,0.0,0.0,0.0,0.0,0.0,14-15
+491,ŠK Slovan Bratislava,Juraj Halenar,0,0.0,0.0,0.0,0.0,0.0,14-15
 492,Shakhtar Donetsk,Ivan Ordets,0,1.0,0.0,1.0,0.0,8.5,14-15
 493,Barcelona,Sergi Samper,0,0.0,1.0,0.0,0.0,8.0,14-15
 494,Real Madrid,Keylor Navas,0,0.0,1.0,0.0,0.0,7.85,14-15
@@ -3831,25 +3831,25 @@
 973,BATE Borisov,Sergey Chernik,0,0.0,0.0,0.0,0.0,5.78,14-15
 974,Sporting,Ricardo Esgaio,0,0.0,1.0,0.0,0.0,5.7,14-15
 975,Basel,Serey Dié,0,0.0,4.0,4.0,0.0,5.25,14-15
-976,Chelsea,Ruben Loftus-Cheek,0,0.0,2.0,0.0,0.0,,14-15
-977,Paris Saint-Germain,Lucas Digne,0,0.0,0.0,0.0,0.0,,14-15
-978,FC Bayern München,Javi Martínez,0,0.0,0.0,0.0,0.0,,14-15
-979,Roma,Kevin Strootman,0,0.0,0.0,0.0,0.0,,14-15
-980,AFC Ajax,Richairo Živković,0,0.0,0.0,0.0,0.0,,14-15
-981,Olympiacos FC,Dimitrios Siovas,0,0.0,0.0,0.0,0.0,,14-15
-982,FC Schalke 04,Marvin Friedrich,0,0.0,0.0,1.0,0.0,,14-15
-983,Juventus,Rômulo,0,0.0,0.0,0.0,0.0,,14-15
-984,Olympiacos FC,Jorge Benítez,0,0.0,0.0,0.0,0.0,,14-15
-985,Benfica,João Teixeira,0,0.0,1.0,1.0,0.0,,14-15
-986,Basel,Giovanni Sio,0,0.0,0.0,0.0,0.0,,14-15
-987,RSC Anderlecht,Michaël Heylen,0,0.0,0.0,0.0,0.0,,14-15
-988,Galatasaray,Furkan Özçal,0,0.0,0.0,0.0,0.0,,14-15
-989,Juventus,Kingsley Coman,0,0.0,0.0,0.0,0.0,,14-15
-990,FC Bayern München,Claudio Pizarro,0,1.0,0.0,3.0,0.0,,14-15
-991,AS Monaco,Matheus Carvalho,0,0.0,0.0,0.0,0.0,,14-15
-992,Olympiacos FC,Konstantinos Giannoulis,0,0.0,0.0,0.0,0.0,,14-15
-993,Juventus,Sebastian Giovinco,0,0.0,0.0,0.0,0.0,,14-15
-994,Zenit St. Petersburg,Andrey Arshavin,0,0.0,0.0,0.0,0.0,,14-15
+976,Chelsea,Ruben Loftus-Cheek,0,0.0,2.0,0.0,0.0,0.0,14-15
+977,Paris Saint-Germain,Lucas Digne,0,0.0,0.0,0.0,0.0,0.0,14-15
+978,FC Bayern München,Javi Martínez,0,0.0,0.0,0.0,0.0,0.0,14-15
+979,Roma,Kevin Strootman,0,0.0,0.0,0.0,0.0,0.0,14-15
+980,AFC Ajax,Richairo Živković,0,0.0,0.0,0.0,0.0,0.0,14-15
+981,Olympiacos FC,Dimitrios Siovas,0,0.0,0.0,0.0,0.0,0.0,14-15
+982,FC Schalke 04,Marvin Friedrich,0,0.0,0.0,1.0,0.0,0.0,14-15
+983,Juventus,Rômulo,0,0.0,0.0,0.0,0.0,0.0,14-15
+984,Olympiacos FC,Jorge Benítez,0,0.0,0.0,0.0,0.0,0.0,14-15
+985,Benfica,João Teixeira,0,0.0,1.0,1.0,0.0,0.0,14-15
+986,Basel,Giovanni Sio,0,0.0,0.0,0.0,0.0,0.0,14-15
+987,RSC Anderlecht,Michaël Heylen,0,0.0,0.0,0.0,0.0,0.0,14-15
+988,Galatasaray,Furkan Özçal,0,0.0,0.0,0.0,0.0,0.0,14-15
+989,Juventus,Kingsley Coman,0,0.0,0.0,0.0,0.0,0.0,14-15
+990,FC Bayern München,Claudio Pizarro,0,1.0,0.0,3.0,0.0,0.0,14-15
+991,AS Monaco,Matheus Carvalho,0,0.0,0.0,0.0,0.0,0.0,14-15
+992,Olympiacos FC,Konstantinos Giannoulis,0,0.0,0.0,0.0,0.0,0.0,14-15
+993,Juventus,Sebastian Giovinco,0,0.0,0.0,0.0,0.0,0.0,14-15
+994,Zenit St. Petersburg,Andrey Arshavin,0,0.0,0.0,0.0,0.0,0.0,14-15
 1,Barcelona,Lionel Messi,12,3.0,35.0,54.0,22.22,8.9,18-19
 2,FC Bayern München,Robert Lewandowski,8,4.0,6.0,26.0,30.77,7.43,18-19
 3,AFC Ajax,Dušan Tadić,6,0.0,20.0,21.0,28.57,7.63,18-19
@@ -4544,14 +4544,14 @@
 692,Olympique Lyonnais,Mathieu Gorgelin,0,0.0,0.0,0.0,0.0,5.7,18-19
 693,AEK Athens,Marko Livaja,0,0.0,0.0,1.0,0.0,5.6,18-19
 694,AS Monaco,Antonio Barreca,0,0.0,0.0,0.0,0.0,5.2,18-19
-695,Borussia Dortmund,Sergio Gómez,0,0.0,0.0,0.0,0.0,,18-19
-696,TSG Hoffenheim,Robin Hack,0,0.0,0.0,0.0,0.0,,18-19
-697,Young Boys,Gregory Wüthrich,0,0.0,0.0,0.0,0.0,,18-19
-698,Club Brugge KV,Saulo Decarli,0,0.0,0.0,0.0,0.0,,18-19
-699,Lokomotiv Moscow,Boris Rotenberg,0,0.0,0.0,0.0,0.0,,18-19
-700,CSKA Moscow,Georgiy Kyrnats,0,0.0,0.0,0.0,0.0,,18-19
-701,Club Brugge KV,Krépin Diatta,0,0.0,0.0,0.0,0.0,,18-19
-702,CSKA Moscow,Takuma Nishimura,0,0.0,0.0,0.0,0.0,,18-19
+695,Borussia Dortmund,Sergio Gómez,0,0.0,0.0,0.0,0.0,0.0,18-19
+696,TSG Hoffenheim,Robin Hack,0,0.0,0.0,0.0,0.0,0.0,18-19
+697,Young Boys,Gregory Wüthrich,0,0.0,0.0,0.0,0.0,0.0,18-19
+698,Club Brugge KV,Saulo Decarli,0,0.0,0.0,0.0,0.0,0.0,18-19
+699,Lokomotiv Moscow,Boris Rotenberg,0,0.0,0.0,0.0,0.0,0.0,18-19
+700,CSKA Moscow,Georgiy Kyrnats,0,0.0,0.0,0.0,0.0,0.0,18-19
+701,Club Brugge KV,Krépin Diatta,0,0.0,0.0,0.0,0.0,0.0,18-19
+702,CSKA Moscow,Takuma Nishimura,0,0.0,0.0,0.0,0.0,0.0,18-19
 1,Real Madrid,Karim Benzema,15,2.0,12.0,46.0,32.61,8.08,21-22
 2,FC Bayern München,Robert Lewandowski,13,4.0,9.0,31.0,41.94,7.84,21-22
 3,AFC Ajax,Sébastien Haller,11,6.0,8.0,24.0,45.83,7.78,21-22
@@ -5287,18 +5287,18 @@
 733,Atalanta,Matteo Lovato,0,0.0,0.0,0.0,0.0,5.9,21-22
 734,Benfica,Haris Seferović,0,2.0,0.0,3.0,0.0,5.7,21-22
 735,Club Brugge KV,Cisse Sandra,0,1.0,0.0,1.0,0.0,5.7,21-22
-736,Liverpool,Conor Bradley,0,0.0,0.0,0.0,0.0,,21-22
-737,Juventus,Fabio Miretti,0,0.0,0.0,0.0,0.0,,21-22
-738,Sporting,Rodrigo Ribeiro,0,0.0,0.0,0.0,0.0,,21-22
-739,Juventus,Luca Pellegrini,0,0.0,0.0,0.0,0.0,,21-22
-740,Young Boys,Cedric Zesiger,0,0.0,0.0,0.0,0.0,,21-22
-741,Benfica,Gil Dias,0,0.0,0.0,0.0,0.0,,21-22
-742,Club Brugge KV,Faitout Maouassa,0,0.0,0.0,0.0,0.0,,21-22
-743,Juventus,Cosimo Marco Da Graca,0,0.0,0.0,0.0,0.0,,21-22
-744,Liverpool,Max Woltman,0,0.0,0.0,0.0,0.0,,21-22
-745,Sheriff Tiraspol,Serafim Cojocari,0,0.0,0.0,0.0,0.0,,21-22
-746,Zenit St. Petersburg,Daniil Kuznetsov,0,0.0,0.0,1.0,0.0,,21-22
-747,Real Madrid,Jesús Vallejo,0,0.0,0.0,0.0,0.0,,21-22
+736,Liverpool,Conor Bradley,0,0.0,0.0,0.0,0.0,0.0,21-22
+737,Juventus,Fabio Miretti,0,0.0,0.0,0.0,0.0,0.0,21-22
+738,Sporting,Rodrigo Ribeiro,0,0.0,0.0,0.0,0.0,0.0,21-22
+739,Juventus,Luca Pellegrini,0,0.0,0.0,0.0,0.0,0.0,21-22
+740,Young Boys,Cedric Zesiger,0,0.0,0.0,0.0,0.0,0.0,21-22
+741,Benfica,Gil Dias,0,0.0,0.0,0.0,0.0,0.0,21-22
+742,Club Brugge KV,Faitout Maouassa,0,0.0,0.0,0.0,0.0,0.0,21-22
+743,Juventus,Cosimo Marco Da Graca,0,0.0,0.0,0.0,0.0,0.0,21-22
+744,Liverpool,Max Woltman,0,0.0,0.0,0.0,0.0,0.0,21-22
+745,Sheriff Tiraspol,Serafim Cojocari,0,0.0,0.0,0.0,0.0,0.0,21-22
+746,Zenit St. Petersburg,Daniil Kuznetsov,0,0.0,0.0,1.0,0.0,0.0,21-22
+747,Real Madrid,Jesús Vallejo,0,0.0,0.0,0.0,0.0,0.0,21-22
 1,FC Bayern München,Robert Lewandowski,15,11.0,12.0,52.0,28.85,8.35,19-20
 2,Borussia Dortmund,Erling Haaland,10,2.0,6.0,21.0,47.62,7.48,19-20
 3,FC Bayern München,Serge Gnabry,9,0.0,12.0,27.0,33.33,7.74,19-20
@@ -5973,17 +5973,17 @@
 672,Chelsea,Willy Caballero,0,0.0,0.0,0.0,0.0,5.75,19-20
 673,FK Crvena zvezda,Jander,0,0.0,2.0,2.0,0.0,5.63,19-20
 674,KRC Genk,Maarten Vandevoordt,0,0.0,0.0,0.0,0.0,4.3,19-20
-675,FC Bayern München,Joshua Zirkzee,0,0.0,0.0,0.0,0.0,,19-20
-676,Red Bull Salzburg,Sekou Koita,0,0.0,0.0,0.0,0.0,,19-20
-677,Atalanta,Musa Barrow,0,0.0,1.0,0.0,0.0,,19-20
-678,Shakhtar Donetsk,Danylo Sikan,0,0.0,0.0,0.0,0.0,,19-20
-679,AFC Ajax,Jürgen Ekkelenkamp,0,0.0,1.0,0.0,0.0,,19-20
-680,Galatasaray,Erencan Yardımcı,0,0.0,0.0,0.0,0.0,,19-20
-681,Borussia Dortmund,Marcel Schmelzer,0,0.0,0.0,0.0,0.0,,19-20
-682,GNK Dinamo Zagreb,Mario Šitum,0,0.0,0.0,0.0,0.0,,19-20
-683,Red Bull Salzburg,Albert Vallci,0,0.0,0.0,0.0,0.0,,19-20
-684,Tottenham Hotspur,Malachi Fagan-Walcott,0,0.0,0.0,0.0,0.0,,19-20
-685,Juventus,Simone Muratore,0,0.0,0.0,0.0,0.0,,19-20
+675,FC Bayern München,Joshua Zirkzee,0,0.0,0.0,0.0,0.0,0.0,19-20
+676,Red Bull Salzburg,Sekou Koita,0,0.0,0.0,0.0,0.0,0.0,19-20
+677,Atalanta,Musa Barrow,0,0.0,1.0,0.0,0.0,0.0,19-20
+678,Shakhtar Donetsk,Danylo Sikan,0,0.0,0.0,0.0,0.0,0.0,19-20
+679,AFC Ajax,Jürgen Ekkelenkamp,0,0.0,1.0,0.0,0.0,0.0,19-20
+680,Galatasaray,Erencan Yardımcı,0,0.0,0.0,0.0,0.0,0.0,19-20
+681,Borussia Dortmund,Marcel Schmelzer,0,0.0,0.0,0.0,0.0,0.0,19-20
+682,GNK Dinamo Zagreb,Mario Šitum,0,0.0,0.0,0.0,0.0,0.0,19-20
+683,Red Bull Salzburg,Albert Vallci,0,0.0,0.0,0.0,0.0,0.0,19-20
+684,Tottenham Hotspur,Malachi Fagan-Walcott,0,0.0,0.0,0.0,0.0,0.0,19-20
+685,Juventus,Simone Muratore,0,0.0,0.0,0.0,0.0,0.0,19-20
 1,Real Madrid,Cristiano Ronaldo,12,6.0,15.0,73.0,16.44,7.85,16-17
 2,Barcelona,Lionel Messi,11,2.0,28.0,38.0,28.95,8.23,16-17
 3,Paris Saint-Germain,Edinson Cavani,8,9.0,2.0,35.0,22.86,7.25,16-17
@@ -6671,17 +6671,17 @@
 685,Benfica,Júlio César,0,0.0,1.0,0.0,0.0,5.2,16-17
 686,Celtic,Dorus De Vries,0,0.0,0.0,0.0,0.0,5.2,16-17
 687,Legia Warszawa,Radosław Cierzniak,0,0.0,0.0,0.0,0.0,4.5,16-17
-688,Paris Saint-Germain,Jonathan Ikoné,0,0.0,0.0,0.0,0.0,,16-17
-689,Paris Saint-Germain,Jean-Kévin Augustin,0,0.0,0.0,0.0,0.0,,16-17
-690,Borussia Dortmund,Dženis Burnić,0,0.0,0.0,0.0,0.0,,16-17
-691,Ludogorets,Lucas Sasha,0,0.0,0.0,0.0,0.0,,16-17
-692,Sporting,Radosav Petrović,0,0.0,0.0,0.0,0.0,,16-17
-693,FC København,Aboubakar Keita,0,0.0,0.0,0.0,0.0,,16-17
-694,FC Porto,Silvestre Varela,0,0.0,0.0,0.0,0.0,,16-17
-695,FC København,Mikael Antonsson,0,0.0,0.0,0.0,0.0,,16-17
-696,FC København,Tom Høgli,0,0.0,0.0,0.0,0.0,,16-17
-697,FC Rostov,Aleksandr Bukharov,0,0.0,1.0,0.0,0.0,,16-17
-698,FC Rostov,Saeid Ezatolahi,0,0.0,2.0,1.0,0.0,,16-17
+688,Paris Saint-Germain,Jonathan Ikoné,0,0.0,0.0,0.0,0.0,0.0,16-17
+689,Paris Saint-Germain,Jean-Kévin Augustin,0,0.0,0.0,0.0,0.0,0.0,16-17
+690,Borussia Dortmund,Dženis Burnić,0,0.0,0.0,0.0,0.0,0.0,16-17
+691,Ludogorets,Lucas Sasha,0,0.0,0.0,0.0,0.0,0.0,16-17
+692,Sporting,Radosav Petrović,0,0.0,0.0,0.0,0.0,0.0,16-17
+693,FC København,Aboubakar Keita,0,0.0,0.0,0.0,0.0,0.0,16-17
+694,FC Porto,Silvestre Varela,0,0.0,0.0,0.0,0.0,0.0,16-17
+695,FC København,Mikael Antonsson,0,0.0,0.0,0.0,0.0,0.0,16-17
+696,FC København,Tom Høgli,0,0.0,0.0,0.0,0.0,0.0,16-17
+697,FC Rostov,Aleksandr Bukharov,0,0.0,1.0,0.0,0.0,0.0,16-17
+698,FC Rostov,Saeid Ezatolahi,0,0.0,2.0,1.0,0.0,0.0,16-17
 1,Real Madrid,Cristiano Ronaldo,15,12.0,22.0,82.0,18.29,8.11,17-18
 2,Liverpool,Mohamed Salah,10,3.0,28.0,43.0,23.26,7.86,17-18
 3,Liverpool,Sadio Mané,10,4.0,38.0,31.0,32.26,7.77,17-18
@@ -7363,15 +7363,15 @@
 679,Olympiacos FC,Stefanos Kapino,0,0.0,0.0,0.0,0.0,5.9,17-18
 680,Feyenoord,Miquel Nelom,0,0.0,0.0,0.0,0.0,5.9,17-18
 681,Beşiktaş,Domagoj Vida,0,0.0,0.0,0.0,0.0,3.4,17-18
-682,Benfica,Rafa Silva,0,0.0,0.0,0.0,0.0,,17-18
-683,Tottenham Hotspur,Lucas Moura,0,0.0,0.0,0.0,0.0,,17-18
-684,Tottenham Hotspur,Victor Wanyama,0,0.0,0.0,0.0,0.0,,17-18
-685,Shakhtar Donetsk,Oleksandr Zubkov,0,0.0,0.0,0.0,0.0,,17-18
-686,FC Spartak Moscow,Pedro Rocha,0,0.0,0.0,0.0,0.0,,17-18
-687,Sporting,Mattheus,0,0.0,0.0,0.0,0.0,,17-18
-688,Sporting,Radosav Petrović,0,0.0,0.0,0.0,0.0,,17-18
-689,Borussia Dortmund,Roman Weidenfeller,0,0.0,0.0,0.0,0.0,,17-18
-690,Juventus,Fabrizio Caligara,0,0.0,0.0,0.0,0.0,,17-18
-691,Shakhtar Donetsk,Ivan Petriak,0,0.0,0.0,0.0,0.0,,17-18
-692,Tottenham Hotspur,Kazaiah Sterling,0,0.0,0.0,0.0,0.0,,17-18
-693,CSKA Moscow,Khetag Khosonov,0,0.0,0.0,1.0,0.0,,17-18
+682,Benfica,Rafa Silva,0,0.0,0.0,0.0,0.0,0.0,17-18
+683,Tottenham Hotspur,Lucas Moura,0,0.0,0.0,0.0,0.0,0.0,17-18
+684,Tottenham Hotspur,Victor Wanyama,0,0.0,0.0,0.0,0.0,0.0,17-18
+685,Shakhtar Donetsk,Oleksandr Zubkov,0,0.0,0.0,0.0,0.0,0.0,17-18
+686,FC Spartak Moscow,Pedro Rocha,0,0.0,0.0,0.0,0.0,0.0,17-18
+687,Sporting,Mattheus,0,0.0,0.0,0.0,0.0,0.0,17-18
+688,Sporting,Radosav Petrović,0,0.0,0.0,0.0,0.0,0.0,17-18
+689,Borussia Dortmund,Roman Weidenfeller,0,0.0,0.0,0.0,0.0,0.0,17-18
+690,Juventus,Fabrizio Caligara,0,0.0,0.0,0.0,0.0,0.0,17-18
+691,Shakhtar Donetsk,Ivan Petriak,0,0.0,0.0,0.0,0.0,0.0,17-18
+692,Tottenham Hotspur,Kazaiah Sterling,0,0.0,0.0,0.0,0.0,0.0,17-18
+693,CSKA Moscow,Khetag Khosonov,0,0.0,0.0,1.0,0.0,0.0,17-18

@@ -237,25 +237,25 @@
 45,Borussia Dortmund,Mitchell Langerak,2.0,0.0,0.0,1.0,0.0,6.6,14-15
 46,Benfica,Paulo Lopes,2.0,0.0,0.0,1.0,1.0,6.6,14-15
 47,Galatasaray,Sinan Bolat,2.0,0.0,0.0,2.0,0.0,6.0,14-15
-48,FC Santa Coloma,Eloy Casals,,,,,,,14-15
-49,Lille,Steeve Elana,,,,,,,14-15
-50,Napoli,Rafael Cabral,,,,,,,14-15
-51,Celtic,Craig Gordon,,,,,,,14-15
-52,F91 Dudelange,Jonathan Joubert,,,,,,,14-15
-53,The New Saints,Paul Harrison,,,,,,,14-15
-54,Valletta FC,Nicholas Vella,,,,,,,14-15
-55,Lincoln Red Imps,Jordan Perez,,,,,,,14-15
-56,Lille,Vincent Enyeama,,,,,,,14-15
-57,Red Bull Salzburg,Péter Gulácsi,,,,,,,14-15
-58,Celtic,Fraser Forster,,,,,,,14-15
-59,Qarabağ,Ibrahim Šehić,,,,,,,14-15
-60,GNK Dinamo Zagreb,Eduardo,,,,,,,14-15
-61,HB Tórshavn,Teitur Gestsson,,,,,,,14-15
-62,FC København,Stephan Andersen,,,,,,,14-15
-63,Sheriff Tiraspol,Matias Degra,,,,,,,14-15
-64,Maccabi Tel Aviv,Juan Pablo,,,,,,,14-15
-65,HJK,Michael Tørnes,,,,,,,14-15
-66,ŠK Slovan Bratislava,Dušan Perniš,,,,,,,14-15
+48,FC Santa Coloma,Eloy Casals,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+49,Lille,Steeve Elana,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+50,Napoli,Rafael Cabral,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+51,Celtic,Craig Gordon,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+52,F91 Dudelange,Jonathan Joubert,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+53,The New Saints,Paul Harrison,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+54,Valletta FC,Nicholas Vella,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+55,Lincoln Red Imps,Jordan Perez,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+56,Lille,Vincent Enyeama,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+57,Red Bull Salzburg,Péter Gulácsi,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+58,Celtic,Fraser Forster,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+59,Qarabağ,Ibrahim Šehić,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+60,GNK Dinamo Zagreb,Eduardo,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+61,HB Tórshavn,Teitur Gestsson,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+62,FC København,Stephan Andersen,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+63,Sheriff Tiraspol,Matias Degra,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+64,Maccabi Tel Aviv,Juan Pablo,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+65,HJK,Michael Tørnes,0.0,0.0,0.0,0.0,0.0,0.0,14-15
+66,ŠK Slovan Bratislava,Dušan Perniš,0.0,0.0,0.0,0.0,0.0,0.0,14-15
 1,Liverpool,Alisson,46.0,6.0,0.0,27.0,0.0,7.18,18-19
 2,AFC Ajax,André Onana,40.0,4.0,0.0,32.0,0.0,6.94,18-19
 3,FK Crvena zvezda,Milan Borjan,39.0,2.0,1.0,29.0,3.0,7.23,18-19
@@ -305,7 +305,7 @@
 47,AS Monaco,Danijel Subašić,2.0,0.0,0.0,2.0,0.0,5.8,18-19
 48,Olympique Lyonnais,Mathieu Gorgelin,1.0,0.0,0.0,1.0,0.0,5.7,18-19
 49,Borussia Dortmund,Marwin Hitz,0.0,1.0,0.0,0.0,0.0,7.1,18-19
-50,CSKA Moscow,Georgiy Kyrnats,0.0,0.0,0.0,0.0,0.0,,18-19
+50,CSKA Moscow,Georgiy Kyrnats,0.0,0.0,0.0,0.0,0.0,0.0,18-19
 1,Real Madrid,Thibaut Courtois,59.0,5.0,1.0,35.0,3.0,7.48,21-22
 2,Villarreal,Gerónimo Rulli,41.0,3.0,0.0,24.0,10.0,6.84,21-22
 3,Benfica,Odysseas Vlachodimos,37.0,5.0,1.0,26.0,2.0,7.12,21-22
@@ -512,4 +512,4 @@
 49,FC Bayern München,Manuel Neuer,1.0,1.0,0.0,0.0,0.0,7.0,17-18
 50,Manchester City,Claudio Bravo,1.0,0.0,0.0,1.0,3.0,6.5,17-18
 51,Tottenham Hotspur,Michel Vorm,0.0,1.0,0.0,0.0,0.0,6.9,17-18
-52,Borussia Dortmund,Roman Weidenfeller,0.0,0.0,0.0,0.0,0.0,,17-18
+52,Borussia Dortmund,Roman Weidenfeller,0.0,0.0,0.0,0.0,0.0,0.0,17-18
