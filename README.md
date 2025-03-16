@@ -1,7 +1,7 @@
 # 📊 Champions League Analysis - Data Harvesting
 
 ## 📌 Descrição do Projeto
-Este projeto tem como objetivo coletar dados da UEFA Champions League a partir do site **Sofascore** e realizar uma análise dos jogadores que participaram das últimas 10 temporadas. A coleta de dados é feita através de **Web Scraping**, utilizando as bibliotecas **Requests, BeautifulSoup e Selenium**.
+Este projeto tem como objetivo coletar dados da UEFA Champions League a partir do site **Sofascore** e realizar uma análise das últimas 10 temporadas (entre 2014 até 2014). A coleta de dados é feita através de **Web Scraping**, utilizando as bibliotecas **Requests, BeautifulSoup e Selenium**.
 
 ## 🎯 Objetivos
 - Realizar a coleta automatizada de estatísticas dos jogadores em cada temporada.
@@ -27,6 +27,7 @@ Champions-League-Analysis/
 │   │   ├── Passe/                  # Estatísticas de passes por temporada
 │   │   ├── Goleiro/                # Estatísticas de goleiros por temporada
 │   ├── temporadas_urls.csv         # Arquivo com URLs das temporadas para scraping
+│── data_unificada/                 #Contém os arquivos CSV que foram limpos, organizados e unificados por categoria
 │── champions_league_analysis.ipynb # Notebook principal
 │── requirements.txt                # Lista de dependências do projeto
 │── readme.md                       # Este arquivo README
@@ -56,21 +57,28 @@ jupyter notebook
 - **Salvamento Estruturado:** Os dados são armazenados na pasta `data/` em arquivos `.csv`, separados por temporada.
 
 ## 🔍 Recuperação e Análise de Dados
-A segunda parte do projeto se concentra em extrair informações útis a partir dos dados coletados. Algumas possíveis análises incluem:
-- **Identificação dos jogadores com melhor desempenho por temporada**
-- **Análise de tendência dos melhores times**
-- **Comparativo de estatísticas entre jogadores e temporadas**
 
-## 📌 Exemplo de Uso
-```python
-import pandas as pd
+A segunda parte do projeto se concentra em extrair informações úteis a partir dos dados coletados. Algumas análises realizadas incluem:
 
-# Carregar dados da temporada 23/24
-df = pd.read_csv("data/estatisticas_jogadores_23-24.csv")
+### 📈 Análise de Tendências por Temporada
+- Avaliação do desempenho médio de jogadores e equipes ao longo das últimas 10 temporadas.
+- Identificação de padrões e evolução das estatísticas por posição (Ataque, Defesa, Passe e Goleiro).
+- Uso da **mediana** em vez da média para garantir robustez nos dados.
 
-# Exibir as primeiras linhas
-df.head()
-```
+### ⚖️ Comparação de Desempenho por Clube
+- Criação de rankings de clubes usando duas abordagens:
+  1. **Mediana da Nota Sofascore** - Reflete a avaliação geral da performance dos jogadores no time.
+  2. **Mediana das Estatísticas (sem métricas percentuais e qualitativas)** - Considera apenas estatísticas objetivas como gols, passes e desarmes.
+- Comparação visual entre os rankings baseados em nota e métricas objetivas.
+
+### ⭐ Identificação de Jogadores-Chave
+- Classificação dos jogadores com maior impacto em cada categoria (Ataque, Defesa, Passe e Goleiro).
+- Excluindo métricas qualitativas para um ranking mais justo, focado apenas em estatísticas numéricas.
+- Comparação entre os melhores jogadores por temporada.
+
+### 🏆 Melhor Jogador e Melhor Time das Últimas 10 Temporadas
+- Identificação do jogador mais impactante baseado na **mediana das métricas objetivas**.
+- Ranking dos melhores times baseados em desempenho agregado das estatísticas (gols, passes, assistências, desarmes, etc.).
 
 ## ⚠️ Possíveis Erros e Soluções
 1. **Problemas com Selenium?** Certifique-se de que o WebDriver está instalado corretamente:
